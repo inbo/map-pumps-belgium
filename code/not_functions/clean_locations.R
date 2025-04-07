@@ -19,9 +19,6 @@ data2<-data2 %>%
   select(-Individual.capacity..m3.per.h.) %>%
   mutate(Total.capacity..m3.per.h.=as.numeric(gsub("/","0",Total.capacity..m3.per.h.)))
 
-write.csv(data1,"./data/intern/pumps_belgium.csv",row.names = FALSE)
-write.csv(data2,"./data/intern/pumping_stations_belgium.csv",row.names = FALSE)
-
 f.add.transformed.coordinates<-function(data){
   points_sf <- st_as_sf(data, coords = c("X", "Y"), crs = 31370)
   # Transform to WGS 1984 (EPSG:4326)
@@ -35,6 +32,9 @@ f.add.transformed.coordinates<-function(data){
 
 data1<-f.add.transformed.coordinates(data1)
 data2<-f.add.transformed.coordinates(data2)
+
+write.csv(data1,"./data/intern/pumps_belgium.csv",row.names = FALSE)
+write.csv(data2,"./data/intern/pumping_stations_belgium.csv",row.names = FALSE)
 
 control.parameter="Pump.type"
 label.parameter="Total.capacity..m3.per.h."

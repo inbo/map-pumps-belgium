@@ -1,414 +1,414 @@
-"Name","X","Y","Total.capacity..m3.per.h.","Number.of.pumps","Individual.capacity..m3.per.h.","Pump.type","name.water.body","Discharge.into.freshwater.or.estuary.sea"
-"Perwijsbeek",159734,198195,1800,1,600,"centrifugal","Nete","estuary"
-"Perwijsbeek",159734,198195,1800,1,600,"centrifugal","Nete","estuary"
-"Perwijsbeek",159734,198195,1800,1,600,"centrifugal","Nete","estuary"
-"Eekhoven",156619,196049,12600,1,1800,"Archimedes screw","Nete","estuary"
-"Eekhoven",156619,196049,12600,1,3600,"Archimedes screw","Nete","estuary"
-"Eekhoven",156619,196049,12600,1,3600,"Archimedes screw","Nete","estuary"
-"Eekhoven",156619,196049,12600,1,3600,"Archimedes screw","Nete","estuary"
-"Sint-Annapolder",100242,217566,400,1,400,"submersible pump","Leopoldkanaal","freshwater"
-"Voorde",114030,188125,2400,1,1200,"submersible pump","Zeeschelde","estuary"
-"Voorde",114030,188125,2400,1,1200,"submersible pump","Zeeschelde","estuary"
-"Denderbellebroek",129274,189396,21600,1,5400,"axial flow","Dender","freshwater"
-"Denderbellebroek",129274,189396,21600,1,5400,"axial flow","Dender","freshwater"
-"Denderbellebroek",129274,189396,21600,1,5400,"axial flow","Dender","freshwater"
-"Denderbellebroek",129274,189396,21600,1,5400,"axial flow","Dender","freshwater"
-"Gijzegem",128254,185144,9792,1,4896,"axial flow","Dender","freshwater"
-"Gijzegem",128254,185144,9792,1,4896,"axial flow","Dender","freshwater"
-"De Katte",64352,211976,6480,1,3240,"Archimedes screw","Kanaal Van Gent Naar Oostende","freshwater"
-"De Katte",64352,211976,6480,1,3240,"Archimedes screw","Kanaal Van Gent Naar Oostende","freshwater"
-"Kwetshage-Paddegat",59732,211051,12000,1,4000,"Archimedes screw","Kanaal Van Gent Naar Oostende","freshwater"
-"Kwetshage-Paddegat",59732,211051,12000,1,4000,"Archimedes screw","Kanaal Van Gent Naar Oostende","freshwater"
-"Kwetshage-Paddegat",59732,211051,12000,1,4000,"Archimedes screw","Kanaal Van Gent Naar Oostende","freshwater"
-"De Steeger",61005,211184,12096,1,4032,"Archimedes screw","Kanaal Van Gent Naar Oostende","freshwater"
-"De Steeger",61005,211184,12096,1,4032,"Archimedes screw","Kanaal Van Gent Naar Oostende","freshwater"
-"De Steeger",61005,211184,12096,1,4032,"Archimedes screw","Kanaal Van Gent Naar Oostende","freshwater"
-"Waasmunster",127814,199114,6480,1,2160,"axial flow","Benedendurme","estuary"
-"Waasmunster",127814,199114,6480,1,2160,"axial flow","Benedendurme","estuary"
-"Waasmunster",127814,199114,6480,1,2160,"axial flow","Benedendurme","estuary"
-"Grootbroek",132542,192344,16200,1,5400,"centrifugal","Zeeschelde","estuary"
-"Grootbroek",132542,192344,16200,1,5400,"centrifugal","Zeeschelde","estuary"
-"Grootbroek",132542,192344,16200,1,5400,"centrifugal","Zeeschelde","estuary"
-"Gespoelde put",137028,195266,1755,1,585,"axial flow","Zeeschelde","estuary"
-"Gespoelde put",137028,195266,1755,1,585,"axial flow","Zeeschelde","estuary"
-"Gespoelde put",137028,195266,1755,1,585,"axial flow","Zeeschelde","estuary"
-"Oud-veerstraat",146859,206295,2040,1,1020,"axial flow-closed","Akkersbeek","freshwater"
-"Oud-veerstraat",146859,206295,2040,1,1020,"axial flow-closed","Akkersbeek","freshwater"
-"Seine",25205,191884,4200,1,2100,"Archimedes screw","Ringsloot","freshwater"
-"Seine",25205,191884,4200,1,2100,"Archimedes screw","Ringsloot","freshwater"
-"Sint-Karelsmolen",26824,194766,4200,1,2100,"Archimedes screw","Ringsloot","freshwater"
-"Sint-Karelsmolen",26824,194766,4200,1,2100,"Archimedes screw","Ringsloot","freshwater"
-"Baudouin",26824,194767,2700,1,2700,"centrifugal","Ringsloot","freshwater"
-"Volvo",109709,198116,2040,1,1020,"Archimedes screw","Westlede","freshwater"
-"Volvo",109709,198116,2040,1,1020,"Archimedes screw","Westlede","freshwater"
-"Rodenhuyze",109685,202997,4500,1,1500,"axial flow-closed","Moervaart","freshwater"
-"Rodenhuyze",109685,202997,4500,1,1500,"axial flow-closed","Moervaart","freshwater"
-"Rodenhuyze",109685,202997,4500,1,1500,"axial flow-closed","Moervaart","freshwater"
-"Lange Kromme",112401,204190,4500,1,1500,"axial flow-open","Zuidlede","freshwater"
-"Lange Kromme",112401,204190,4500,1,1500,"axial flow-open","Zuidlede","freshwater"
-"Lange Kromme",112401,204190,4500,1,1500,"axial flow-open","Zuidlede","freshwater"
-"Sint-Kruis-Winkel",111915,204453,2160,1,1080,"axial flow-open","Moervaart","freshwater"
-"Sint-Kruis-Winkel",111915,204453,2160,1,1080,"axial flow-open","Moervaart","freshwater"
-"Langelede",113980,206180,3900,1,1500,"axial flow-vertical","Moervaart","freshwater"
-"Langelede",113980,206180,3900,1,1500,"axial flow-vertical","Moervaart","freshwater"
-"Langelede",113980,206180,3900,1,900,"axial flow-vertical","Moervaart","freshwater"
-"Sint-Francispolder",113395,211564,900,1,900,"Archimedes screw","NEDERLAND","freshwater / Netherlands"
-"Sint-Elooi",114535,211376,1020,1,1020,"Archimedes screw","NEDERLAND","freshwater / Netherlands"
-"Kalve Brug",116224,206348,4800,1,2400,"axial flow-open","Moervaart","freshwater"
-"Kalve Brug",116224,206348,4800,1,2400,"axial flow-open","Moervaart","freshwater"
-"Kalve Terwest",116953,206574,1800,1,900,"axial flow-vertical","Moervaart","freshwater"
-"Kalve Terwest",116953,206574,1800,1,900,"axial flow-vertical","Moervaart","freshwater"
-"Lege Zijde",119969,204629,2400,1,1200,"axial flow-open","Zuidlede","freshwater"
-"Lege Zijde",119969,204629,2400,1,1200,"axial flow-open","Zuidlede","freshwater"
-"Ondergemaal Zaffelare",114468,203047,0,1,NA,"Archimedes screw","Zaffelaarsvaardeken","freshwater"
-"Ondergemaal Zaffelare",114468,203047,0,1,NA,"Archimedes screw","Zaffelaarsvaardeken","freshwater"
-"Stenen Brug",117373,204339,2400,1,2400,"Archimedes screw","Zuidlede","freshwater"
-"Valleien van Zuidlede en Moervaart",120592,204739,6000,1,2400,"centrifugal","Zuidlede","freshwater"
-"Valleien van Zuidlede en Moervaart",120592,204739,6000,1,1800,"axial flow-open","Zuidlede","freshwater"
-"Valleien van Zuidlede en Moervaart",120592,204739,6000,1,1800,"axial flow-open","Zuidlede","freshwater"
-"Bosdam A",116564,204077,3000,1,3000,"centrifugal","Zuidlede","freshwater"
-"Bosdam B",116603,204097,3000,1,1500,"axial flow-vertical","Zuidlede","freshwater"
-"Bosdam B",116603,204097,3000,1,1500,"axial flow-vertical","Zuidlede","freshwater"
-"Weehaege",122698,202202,11400,1,6000,"axial flow-vertical","Durme","freshwater"
-"Weehaege",122698,202202,11400,1,3000,"axial flow-vertical","Durme","freshwater"
-"Weehaege",122698,202202,11400,1,2400,"axial flow-vertical","Durme","freshwater"
-"Gemalen van de Ledebeek",124847,198678,13200,1,3600,"Archimedes screw","Durme","estuary"
-"Gemalen van de Ledebeek",124847,198678,13200,1,3600,"Archimedes screw","Durme","estuary"
-"Gemalen van de Ledebeek",124847,198678,13200,1,1500,"Archimedes screw","Durme","estuary"
-"Gemalen van de Ledebeek",124847,198678,13200,1,1500,"Archimedes screw","Durme","estuary"
-"Gemalen van de Ledebeek",124847,198678,13200,1,1500,"Archimedes screw","Durme","estuary"
-"Gemalen van de Ledebeek",124847,198678,13200,1,1500,"Archimedes screw","Durme","estuary"
-"Etbos",118364,204367,517,1,517,"submersible pump","Zuidlede","freshwater"
-"Destelbergen",110541,196052,1590,1,795,"Archimedes screw","Zuidlede","freshwater"
-"Destelbergen",110541,196052,1590,1,795,"Archimedes screw","Zuidlede","freshwater"
-"Vispoelbeek",119239,197088,375,1,375,"submersible pump","Vispoelbeek","freshwater"
-"De Wilde Speele",114489,204304,120,1,120,"submersible pump","Zuidlede","freshwater"
-"Spletteren",123020,203726,3720,1,2400,"centrifugal","Moervaart","freshwater"
-"Spletteren",123020,203726,3720,1,1320,"axial flow-vertical","Moervaart","freshwater"
-"Bulskamp Nieuwegracht",29104,193974,6000,1,3000,"axial flow-open","Bergenvaart","freshwater"
-"Bulskamp Nieuwegracht",29104,193974,6000,1,3000,"axial flow-open","Bergenvaart","freshwater"
-"Steenkerke Kortewilde",31668,194913,4320,1,2160,"Archimedes screw","Lokanaal en Steengracht","freshwater"
-"Steenkerke Kortewilde",31668,194913,4320,1,2160,"Archimedes screw","Lokanaal en Steengracht","freshwater"
-"Houtem Westmoere",24671,189919,1320,1,660,"axial flow-open","Bergenvaart","freshwater"
-"Houtem Westmoere",24671,189919,1320,1,660,"axial flow-open","Bergenvaart","freshwater"
-"Veurne Moerhol",26738,195353,462,1,462,"Archimedes screw","VHAG 1295","freshwater"
-"Lo Fintele",35324,184335,5400,1,2700,"Archimedes screw","Lokanaal","freshwater"
-"Lo Fintele",35324,184335,5400,1,2700,"Archimedes screw","Lokanaal","freshwater"
-"Lo Lolege",35610,188162,1188,1,1188,"Archimedes screw","Lokanaal","freshwater"
-"Wulveringem",33173,193758,540,1,540,"axial flow-open","VHAG 1219","freshwater"
-"Wulpen Veldweg 1",35433,200846,72,1,72,"axial flow-open","Bommelarevaart",NA
-"Wulpen Veldweg 2",35413,200780,72,1,72,"axial flow-open","Bommelarevaart","freshwater"
-"Wulpen Weidestraat",34437,199273,240,1,240,"axial flow-open","Bommelarevaart","freshwater"
-"Veurne Calonnegracht",29540,196223,72,1,72,"axial flow-open","Bergenvaart","freshwater"
-"Houtem 100 gemete",25203,191790,432,1,432,"axial flow-open","Ringsloot","freshwater"
-"Ramskapelle",38225,202780,432,1,432,"Archimedes screw","Grote Beverdijkvaart","freshwater"
-"Sint-Onolfs I",130864,192033,3600,1,1800,"axial flow-open","Zeeschelde","estuary"
-"Sint-Onolfs I",130864,192033,3600,1,1800,"axial flow-open","Zeeschelde","estuary"
-"Sint-Onolfs II",129690,193247,3600,1,1800,"submersible pump","Zeeschelde","estuary"
-"Sint-Onolfs II",129690,193247,3600,1,1800,"submersible pump","Zeeschelde","estuary"
-"Sint-Trudo",72112,207727,4200,1,2100,"Archimedes screw","Hoofdsloot","freshwater"
-"Sint-Trudo",72112,207727,4200,1,2100,"Archimedes screw","Hoofdsloot","freshwater"
-"Zele-Hoek",126680,198261,12600,1,4200,"axial flow-closed","Benedendurme","estuary"
-"Zele-Hoek",126680,198261,12600,1,4200,"axial flow-closed","Benedendurme","estuary"
-"Zele-Hoek",126680,198261,12600,1,4200,"axial flow-closed","Benedendurme","estuary"
-"Zele-Dijk",127584,192818,6120,1,3060,"axial flow-closed","Zeeschelde","estuary"
-"Zele-Dijk",127584,192818,6120,1,3060,"axial flow-closed","Zeeschelde","estuary"
-"Konkel",125628,188982,7200,1,2400,"axial flow","Zeeschelde","estuary"
-"Konkel",125628,188982,7200,1,2400,"axial flow","Zeeschelde","estuary"
-"Konkel",125628,188982,7200,1,2400,"axial flow","Zeeschelde","estuary"
-"Leeggoed",121588,190262,4800,1,2400,"centrifugal","Zeeschelde","estuary"
-"Leeggoed",121588,190262,4800,1,2400,"centrifugal","Zeeschelde","estuary"
-"Turfput",123197,190526,6480,1,3240,"axial flow","Broekse vaart","freshwater"
-"Turfput",123197,190526,6480,1,3240,"axial flow","Broekse vaart","freshwater"
-"Baasrode",135349,192788,14400,1,4800,"centrifugal","Zeeschelde","estuary"
-"Baasrode",135349,192788,14400,1,4800,"centrifugal","Zeeschelde","estuary"
-"Baasrode",135349,192788,14400,1,4800,"centrifugal","Zeeschelde","estuary"
-"Hoofdsloot",146595,198369,0,1,NA,"centrifugal","Grote Molenbeek","freshwater"
-"Ronselaerebeek",73445,219891,19440,1,6480,"axial flow","Afleidingskanaal Van De Leie","freshwater"
-"Ronselaerebeek",73445,219891,19440,1,6480,"axial flow","Afleidingskanaal Van De Leie","freshwater"
-"Ronselaerebeek",73445,219891,19440,1,6480,"axial flow","Afleidingskanaal Van De Leie","freshwater"
-"De Zegge",187654,209910,3672,1,1224,"axial flow-vertical","Kleine Nete","freshwater"
-"De Zegge",187654,209910,3672,1,1224,"axial flow-vertical","Kleine Nete","freshwater"
-"De Zegge",187654,209910,3672,1,1224,"axial flow-vertical","Kleine Nete","freshwater"
-"Sluiskensweg",171782,237813,1440,1,1440,"Archimedes screw","Blanken Aartloop","freshwater"
-"Kijkverdriet",196391,227378,900,1,450,"centrifugal","Kanaal Dessel-Schoten","freshwater"
-"Kijkverdriet",196391,227378,900,1,450,"centrifugal","Kanaal Dessel-Schoten","freshwater"
-"Wullebeek",146178,200613,7344,1,2448,"axial flow-vertical","Rupel","estuary"
-"Wullebeek",146178,200613,7344,1,2448,"axial flow-vertical","Rupel","estuary"
-"Wullebeek",146178,200613,7344,1,2448,"axial flow-vertical","Rupel","estuary"
-"Lisperloop",164460,203183,2160,1,720,"centrifugal","Kleine Nete","freshwater"
-"Lisperloop",164460,203183,2160,1,720,"centrifugal","Kleine Nete","freshwater"
-"Lisperloop",164460,203183,2160,1,720,"centrifugal","Kleine Nete","freshwater"
-"Goorbosbeek",157848,196266,10080,1,5040,"axial flow-vertical","Grote Nete","freshwater"
-"Goorbosbeek",157848,196266,10080,1,5040,"axial flow-vertical","Grote Nete","freshwater"
-"Wouwendonksebeek",159015,197493,5040,1,5040,"axial flow-vertical","Grote Nete","freshwater"
-"Itterbeek",161077,199793,10080,1,5040,"axial flow-vertical","Grote Nete","freshwater"
-"Itterbeek",161077,199793,10080,1,5040,"axial flow-vertical","Grote Nete","freshwater"
-"Lachenebeek",162224,200544,10080,1,5040,"axial flow-vertical","Grote Nete","freshwater"
-"Lachenebeek",162224,200544,10080,1,5040,"axial flow-vertical","Grote Nete","freshwater"
-"Gestelbeek",169490,201771,10080,1,5040,"axial flow-vertical","Grote Nete","freshwater"
-"Gestelbeek",169490,201771,10080,1,5040,"axial flow-vertical","Grote Nete","freshwater"
-"Molenbeek",159997,198881,4572,1,2286,"axial flow-vertical","Grote Nete","freshwater"
-"Molenbeek",159997,198881,4572,1,2286,"axial flow-vertical","Grote Nete","freshwater"
-"Melle Heusdenbaan",109159,191057,4240,1,1400,"submersible pump","Zeeschelde","estuary"
-"Melle Heusdenbaan",109159,191057,4240,1,1440,"submersible pump","Zeeschelde","estuary"
-"Melle Heusdenbaan",109159,191057,4240,1,1400,"submersible pump","Zeeschelde","estuary"
-"Schoonaarde provinciebaan",125425,188547,3744,1,792,"centrifugal","Zeeschelde","estuary"
-"Schoonaarde provinciebaan",125425,188547,3744,1,792,"centrifugal","Zeeschelde","estuary"
-"Schoonaarde provinciebaan",125425,188547,3744,1,1080,"centrifugal","Zeeschelde","estuary"
-"Schoonaarde provinciebaan",125425,188547,3744,1,1080,"centrifugal","Zeeschelde","estuary"
-"Loeverbeek",131490,212679,6480,1,2160,"submersible pump","Waterloop van de hoge landen","freshwater"
-"Loeverbeek",131490,212679,6480,1,2160,"submersible pump","Waterloop van de hoge landen","freshwater"
-"Loeverbeek",131490,212679,6480,1,2160,"submersible pump","Waterloop van de hoge landen","freshwater"
-"Rode Weel",148151,221697,72000,1,14400,"axial flow-vertical","Havendok","freshwater"
-"Rode Weel",148151,221697,72000,1,14400,"axial flow-vertical","Havendok","freshwater"
-"Rode Weel",148151,221697,72000,1,14400,"axial flow-vertical","Havendok","freshwater"
-"Rode Weel",148151,221697,72000,1,14400,"axial flow-vertical","Havendok","freshwater"
-"Rode Weel",148151,221697,72000,1,14400,"axial flow-vertical","Havendok","freshwater"
-"Noordland",145355,227968,5410,1,620,"axial flow","Schelde Rijnverbindingskanaal","freshwater"
-"Noordland",145355,227968,5410,1,620,"axial flow","Schelde Rijnverbindingskanaal","freshwater"
-"Noordland",145355,227968,5410,1,1160,"axial flow","Schelde Rijnverbindingskanaal","freshwater"
-"Noordland",145355,227968,5410,1,1160,"axial flow","Schelde Rijnverbindingskanaal","freshwater"
-"Noordland",145355,227968,5410,1,1500,"centrifugal","Schelde Rijnverbindingskanaal","freshwater"
-"Noordland",145355,227968,5410,1,350,"centrifugal","Schelde Rijnverbindingskanaal","freshwater"
-"Roerdompstraat",189617,210233,270,1,270,"Archimedes screw","Vijzelloopje","freshwater"
-"Vrouwvliet",155613,193158,86400,1,14400,"axial flow-open","Dijle","estuary"
-"Vrouwvliet",155613,193158,86400,1,14400,"axial flow-open","Dijle","estuary"
-"Vrouwvliet",155613,193158,86400,1,14400,"axial flow-open","Dijle","estuary"
-"Vrouwvliet",155613,193158,86400,1,14400,"axial flow-open","Dijle","estuary"
-"Vrouwvliet",155613,193158,86400,1,14400,"axial flow-open","Dijle","estuary"
-"Vrouwvliet",155613,193158,86400,1,14400,"axial flow-open","Dijle","estuary"
-"Stenegoot",138516,214722,9720,1,2430,"axial flow-closed","Waterloop van de hoge landen","freshwater"
-"Stenegoot",138516,214722,9720,1,2430,"axial flow-closed","Waterloop van de hoge landen","freshwater"
-"Stenegoot",138516,214722,9720,1,2430,"axial flow-closed","Waterloop van de hoge landen","freshwater"
-"Stenegoot",138516,214722,9720,1,2430,"axial flow-closed","Waterloop van de hoge landen","freshwater"
-"Keetberg",142902,214882,5760,1,1920,"axial flow-closed","Waterloop van de hoge landen","freshwater"
-"Keetberg",142902,214882,5760,1,1920,"axial flow-closed","Waterloop van de hoge landen","freshwater"
-"Keetberg",142902,214882,5760,1,1920,"axial flow-closed","Waterloop van de hoge landen","freshwater"
-"Benedenvliet",147065,202189,6480,1,1620,"axial flow","Scheldebeek","freshwater"
-"Benedenvliet",147065,202189,6480,1,1620,"axial flow","Scheldebeek","freshwater"
-"Benedenvliet",147065,202189,6480,1,1620,"axial flow","Scheldebeek","freshwater"
-"Benedenvliet",147065,202189,6480,1,1620,"axial flow","Scheldebeek","freshwater"
-"Lobroekdok",155000,213313,7200,1,1800,"Archimedes screw","lobroekdok","lobroekdok"
-"Lobroekdok",155000,213313,7200,1,1800,"Archimedes screw","lobroekdok","lobroekdok"
-"Lobroekdok",155000,213313,7200,1,1800,"Archimedes screw","lobroekdok","lobroekdok"
-"Lobroekdok",155000,213313,7200,1,1800,"Archimedes screw","lobroekdok","lobroekdok"
-"Schijnpoort",155387,213063,18000,1,6000,"axial flow","lobroekdok","lobroekdok"
-"Schijnpoort",155387,213063,18000,1,6000,"axial flow","lobroekdok","lobroekdok"
-"Schijnpoort",155387,213063,18000,1,6000,"axial flow","lobroekdok","lobroekdok"
-"Veurne-Ambacht",37588,203062,99000,1,19800,"axial flow-vertical","zee","sea"
-"Veurne-Ambacht",37588,203062,99000,1,19800,"axial flow-vertical","zee","sea"
-"Veurne-Ambacht",37588,203062,99000,1,19800,"axial flow-vertical","zee","sea"
-"Veurne-Ambacht",37588,203062,99000,1,19800,"axial flow-vertical","zee","sea"
-"Veurne-Ambacht",37588,203062,99000,1,19800,"axial flow-vertical","zee","sea"
-"Woumen",41983,188967,14400,1,7200,"axial flow-vertical","IJzer","freshwater"
-"Woumen",41983,188967,14400,1,7200,"axial flow-vertical","IJzer","freshwater"
-"Caemerlinckxcomplex",49583,213790,10800,1,5400,"axial flow","zee","sea"
-"Caemerlinckxcomplex",49583,213790,10800,1,5400,"axial flow","zee","sea"
-"Waarschoot Lieve",98104,202913,10800,1,3600,"axial flow","Klein Brakeleiken","freshwater"
-"Waarschoot Lieve",98104,202913,10800,1,3600,"axial flow","Klein Brakeleiken","freshwater"
-"Waarschoot Lieve",98104,202913,10800,1,3600,"axial flow","Klein Brakeleiken","freshwater"
-"Ertvelde Spiedam",107653,206376,29880,1,5976,"axial flow","Avrijevaart","freshwater"
-"Ertvelde Spiedam",107653,206376,29880,1,2988,"axial flow","Avrijevaart","freshwater"
-"Ertvelde Spiedam",107653,206376,29880,1,5976,"axial flow","Avrijevaart","freshwater"
-"Ertvelde Spiedam",107653,206376,29880,1,2988,"axial flow","Avrijevaart","freshwater"
-"Ertvelde Spiedam",107653,206376,29880,1,5976,"axial flow","Avrijevaart","freshwater"
-"Ertvelde Spiedam",107653,206376,29880,1,2988,"axial flow","Avrijevaart","freshwater"
-"Ertvelde Spiedam",107653,206376,29880,1,2988,"axial flow","Avrijevaart","freshwater"
-"Boekhoute",104189,218777,47520,1,4320,"Archimedes screw","Isabellavaart","freshwater"
-"Boekhoute",104189,218777,47520,1,4320,"Archimedes screw","Isabellavaart","freshwater"
-"Boekhoute",104189,218777,47520,1,12960,"Archimedes screw","Isabellavaart","freshwater"
-"Boekhoute",104189,218777,47520,1,12960,"Archimedes screw","Isabellavaart","freshwater"
-"Boekhoute",104189,218777,47520,1,12960,"Archimedes screw","Isabellavaart","freshwater"
-"Vinderhoute",100102,197680,18000,1,3600,"axial flow","Kanaal Van Gent Naar Oostende","freshwater"
-"Vinderhoute",100102,197680,18000,1,3600,"axial flow","Kanaal Van Gent Naar Oostende","freshwater"
-"Vinderhoute",100102,197680,18000,1,3600,"axial flow","Kanaal Van Gent Naar Oostende","freshwater"
-"Vinderhoute",100102,197680,18000,1,3600,"axial flow","Kanaal Van Gent Naar Oostende","freshwater"
-"Vinderhoute",100102,197680,18000,1,3600,"axial flow","Kanaal Van Gent Naar Oostende","freshwater"
-"Stekene",126829,209779,7128,1,2376,"axial flow","kanaal van stekene","freshwater"
-"Stekene",126829,209779,7128,1,2376,"axial flow","kanaal van stekene","freshwater"
-"Stekene",126829,209779,7128,1,2376,"axial flow","kanaal van stekene","freshwater"
-"Wichelen",118791,189805,29520,1,4680,"axial flow","Zeeschelde","estuary"
-"Wichelen",118791,189805,29520,1,10080,"axial flow","Zeeschelde","estuary"
-"Wichelen",118791,189805,29520,1,10080,"axial flow","Zeeschelde","estuary"
-"Wichelen",118791,189805,29520,1,4680,"axial flow","Zeeschelde","estuary"
-"Vondelbeek",131626,191604,17280,1,4320,"axial flow","Zeeschelde","estuary"
-"Vondelbeek",131626,191604,17280,1,4320,"axial flow","Zeeschelde","estuary"
-"Vondelbeek",131626,191604,17280,1,4320,"axial flow","Zeeschelde","estuary"
-"Vondelbeek",131626,191604,17280,1,4320,"axial flow","Zeeschelde","estuary"
-"Steenbeek",130496,188742,14400,1,3600,"axial flow","Steenbeek","freshwater"
-"Steenbeek",130496,188742,14400,1,3600,"axial flow","Steenbeek","freshwater"
-"Steenbeek",130496,188742,14400,1,3600,"axial flow","Steenbeek","freshwater"
-"Steenbeek",130496,188742,14400,1,3600,"axial flow","Steenbeek","freshwater"
-"Waarschoot Oostmoer",97424,205157,5310,1,1320,"centrifugal","Eeklo'S Leiken","freshwater"
-"Waarschoot Oostmoer",97424,205157,5310,1,1320,"centrifugal","Eeklo'S Leiken","freshwater"
-"Waarschoot Oostmoer",97424,205157,5310,1,1320,"centrifugal","Eeklo'S Leiken","freshwater"
-"Waarschoot Oostmoer",97424,205157,5310,1,240,"centrifugal","Eeklo'S Leiken","freshwater"
-"Waarschoot Oostmoer",97424,205157,5310,1,240,"centrifugal","Eeklo'S Leiken","freshwater"
-"Waarschoot Oostmoer",97424,205157,5310,1,240,"centrifugal","Eeklo'S Leiken","freshwater"
-"Waarschoot Oostmoer",97424,205157,5310,1,630,"submersible pump","Eeklo'S Leiken","freshwater"
-"Egenhoven",170630,171317,2720,1,1360,"submersible pump","VHAG 17171","freshwater"
-"Egenhoven",170630,171317,2720,1,1360,"submersible pump","VHAG 17171","freshwater"
-"Schulensbroek",205910,184450,14400,1,3600,"axial flow-vertical","Demer","freshwater"
-"Schulensbroek",205910,184450,14400,1,3600,"axial flow-vertical","Demer","freshwater"
-"Schulensbroek",205910,184450,14400,1,3600,"axial flow-vertical","Demer","freshwater"
-"Schulensbroek",205910,184450,14400,1,1800,"axial flow-vertical","Demer","freshwater"
-"Schulensbroek",205910,184450,14400,1,1800,"axial flow-vertical","Demer","freshwater"
-"Ketsbrugge",69883,210348,43200,1,14400,"axial flow","Buitenvestigingsgracht Brugge","freshwater"
-"Ketsbrugge",69883,210348,43200,1,14400,"axial flow","Buitenvestigingsgracht Brugge","freshwater"
-"Ketsbrugge",69883,210348,43200,1,14400,"axial flow","Buitenvestigingsgracht Brugge","freshwater"
-"Zwevegem",77806,168670,5400,1,2700,"axial flow","Kanaal Bossuit-Kortrijk","freshwater"
-"Zwevegem",77806,168670,5400,1,2700,"axial flow","Kanaal Bossuit-Kortrijk","freshwater"
-"Boezinge-Sas",43150,178875,864,1,864,"centrifugal","Kanaal Ieper-Ijzer","freshwater"
-"Kreek Van Nieuwendamme",37276,204049,7200,1,3600,"axial flow","Havengeul Nieuwpoort","sea"
-"Kreek Van Nieuwendamme",37276,204049,7200,1,3600,"axial flow","Havengeul Nieuwpoort","sea"
-"Nieuw Bedelf",37181,204120,7200,1,3600,"axial flow","Havengeul Nieuwpoort","sea"
-"Nieuw Bedelf",37181,204120,7200,1,3600,"axial flow","Havengeul Nieuwpoort","sea"
-"Moen",80403,163502,43200,1,10800,"axial flow-vertical","Kanaal Bossuit-Kortrijk","freshwater"
-"Moen",80403,163502,43200,1,10800,"axial flow-vertical","Kanaal Bossuit-Kortrijk","freshwater"
-"Moen",80403,163502,43200,1,10800,"axial flow-vertical","Kanaal Bossuit-Kortrijk","freshwater"
-"Moen",80403,163502,43200,1,10800,"axial flow-vertical","Kanaal Bossuit-Kortrijk","freshwater"
-"Oostkerke",75351,217628,7200,1,3600,"centrifugal","Schipdonkkanaal","freshwater"
-"Oostkerke",75351,217628,7200,1,3600,"centrifugal","Schipdonkkanaal","freshwater"
-"Veurne-Noodpomp",30775,196913,7200,1,3600,"centrifugal","Lokanaal","freshwater"
-"Veurne-Noodpomp",30775,196913,7200,1,3600,"centrifugal","Lokanaal","freshwater"
-"Boezinge-Dorp",44360,176980,864,1,864,"centrifugal","Kanaal Van Ieper Naar Komen","freshwater"
-"Bossuit",82500,160113,10980,1,2745,"axial flow-vertical","Kanaal Bossuit-Kortrijk","freshwater"
-"Bossuit",82500,160113,10980,1,2745,"axial flow-vertical","Kanaal Bossuit-Kortrijk","freshwater"
-"Bossuit",82500,160113,10980,1,2745,"axial flow-vertical","Kanaal Bossuit-Kortrijk","freshwater"
-"Bossuit",82500,160113,10980,1,2745,"axial flow-vertical","Kanaal Bossuit-Kortrijk","freshwater"
-"Ooigem",77958,176649,8300,1,2075,"axial flow-open","Kanaal Roeselare-Leie","freshwater"
-"Ooigem",77958,176649,8300,1,2075,"axial flow-open","Kanaal Roeselare- Leie","freshwater"
-"Ooigem",77958,176649,8300,1,2075,"axial flow-open","Kanaal Roeselare- Leie","freshwater"
-"Ooigem",77958,176649,8300,1,2075,"axial flow-open","Kanaal Roeselare- Leie","freshwater"
-"Van Hecke",129403,198992,360,1,360,"centrifugal","Benedendurme","estuary"
-"D'Honden",129008,199675,720,1,360,"centrifugal","Benedendurme","estuary"
-"D'Honden",129008,199675,720,1,360,"centrifugal","Benedendurme","estuary"
-"Klein Pontrave",129249,199451,360,1,360,"centrifugal","Benedendurme","estuary"
-"Groot Pontrave",129837,199315,720,1,360,"centrifugal","Benedendurme","estuary"
-"Groot Pontrave",129837,199315,720,1,360,"centrifugal","Benedendurme","estuary"
-"Kloosterbroek",130960,199545,360,1,360,"centrifugal","Benedendurme","estuary"
-"Rodebeek",130810,199305,1560,1,360,"centrifugal","Benedendurme","estuary"
-"Rodebeek",130810,199305,1560,1,1200,"centrifugal","Benedendurme","estuary"
-"Ziel- en Appeldonkbeek",148739,197158,35640,1,9000,"axial flow","Rupel","estuary"
-"Ziel- en Appeldonkbeek",148739,197158,35640,1,9000,"axial flow","Rupel","estuary"
-"Ziel- en Appeldonkbeek",148739,197158,35640,1,9000,"axial flow","Rupel","estuary"
-"Ziel- en Appeldonkbeek",148739,197158,35640,1,2880,"axial flow","Rupel","estuary"
-"Ziel- en Appeldonkbeek",148739,197158,35640,1,2880,"axial flow","Rupel","estuary"
-"Ziel- en Appeldonkbeek",148739,197158,35640,1,2880,"axial flow","Rupel","estuary"
-"Vliet",146521,198473,70560,1,14400,"axial flow-closed","Kanaal Brussel-Rupel","freshwater"
-"Vliet",146521,198473,70560,1,14400,"axial flow-closed","Kanaal Brussel-Rupel","freshwater"
-"Vliet",146521,198473,70560,1,14400,"axial flow-closed","Kanaal Brussel-Rupel","freshwater"
-"Vliet",146521,198473,70560,1,14400,"axial flow-closed","Kanaal Brussel-Rupel","freshwater"
-"Vliet",146521,198473,70560,1,4320,"axial flow-closed","Kanaal Brussel-Rupel","freshwater"
-"Vliet",146521,198473,70560,1,4320,"axial flow-closed","Kanaal Brussel-Rupel","freshwater"
-"Vliet",146521,198473,70560,1,4320,"axial flow-closed","Kanaal Brussel-Rupel","freshwater"
-"Tophat",149395,213994,648,1,324,"centrifugal","Zeeschelde","estuary"
-"Tophat",149395,213994,648,1,324,"centrifugal","Zeeschelde","estuary"
-"Meer",173652,237961,0,1,NA,"Archimedes screw","Nieuwe Meerloop","freshwater"
-"Meerseweg",175948,236504,0,1,NA,"submersible pump","Beekse Venloop","freshwater"
-"Speekloop",173652,237961,0,1,NA,"submersible pump","Heiakkersloop","freshwater"
-"Eeklo's Leiken",92644,207637,9000,1,3000,"axial flow-vertical","Afleidingskanaal Van De Leie","freshwater"
-"Eeklo's Leiken",92644,207637,9000,1,3000,"axial flow-vertical","Afleidingskanaal Van De Leie","freshwater"
-"Eeklo's Leiken",92644,207637,9000,1,3000,"axial flow-vertical","Afleidingskanaal Van De Leie","freshwater"
-"De Gavergracht",114800,161395,900,1,450,"centrifugal","Dender","freshwater"
-"De Gavergracht",114800,161395,900,1,450,"centrifugal","Dender","freshwater"
-"Kasteel Borgitter",250358,206510,0,1,NA,"axial flow","Slotgracht kasteel","freshwater"
-"Woutershof",243534,206232,0,1,NA,"unknown","Abeek","freshwater"
-"Winkelderven",244241,207357,0,1,NA,"unknown","Niet op VHA","freshwater"
-"Zandbergen",120282,165790,0,1,NA,"submersible pump","De Rijt","freshwater"
-"Zandbergen",120282,165790,0,1,NA,"submersible pump","De Rijt","freshwater"
-"Melden",92786,167921,10800,1,2700,"Archimedes screw","Bovenschelde","freshwater"
-"Melden",92786,167921,10800,1,2700,"Archimedes screw","Bovenschelde","freshwater"
-"Melden",92786,167921,10800,1,2700,"Archimedes screw","Bovenschelde","freshwater"
-"Melden",92786,167921,10800,1,2700,"Archimedes screw","Bovenschelde","freshwater"
-"Vrijgeweid",66112,197546,240,1,120,"submersible pump","Rivierbeek","freshwater"
-"Vrijgeweid",66112,197546,240,1,120,"submersible pump","Rivierbeek","freshwater"
-"Rijt",119845,165155,80,1,80,"Archimedes screw","Dender","freshwater"
-"Watermolen",138310,216039,86400,1,14400,"axial flow","Verrebroekdok","freshwater"
-"Watermolen",138310,216039,86400,1,14400,"axial flow","Verrebroekdok","freshwater"
-"Watermolen",138310,216039,86400,1,14400,"axial flow","Verrebroekdok","freshwater"
-"Watermolen",138310,216039,86400,1,14400,"axial flow","Verrebroekdok","freshwater"
-"Watermolen",138310,216039,86400,1,14400,"axial flow","Verrebroekdok","freshwater"
-"Watermolen",138310,216039,86400,1,14400,"axial flow","Verrebroekdok","freshwater"
-"Vlaemschen dijk",142594,223071,21600,1,5400,"axial flow","Zeeschelde","estuary"
-"Vlaemschen dijk",142594,223071,21600,1,5400,"axial flow","Zeeschelde","estuary"
-"Vlaemschen dijk",142594,223071,21600,1,5400,"axial flow","Zeeschelde","estuary"
-"Vlaemschen dijk",142594,223071,21600,1,5400,"axial flow","Zeeschelde","estuary"
-"Slijpe",42708,207195,2398,1,1199,"axial flow","Kanaal Plassendale-Duinkerken","freshwater"
-"Slijpe",42708,207195,2398,1,1199,"axial flow","Kanaal Plassendale-Duinkerken","freshwater"
-"Mannekensvere",41848,203907,68,1,68,"submersible pump","Reygaertsvliet","freshwater"
-"Coudeville",43080,203961,108,1,108,"submersible pump","Reigersvliet","freshwater"
-"Zande",47308,201788,0,1,NA,"submersible pump","Spermaliegeleed","freshwater"
-"Wilskerke",43884,207598,943,1,943,"Archimedes screw","Kanaal Plassendale-Duinkerken","freshwater"
-"Kromme Elleboog",47406,209049,659,1,659,"Archimedes screw","Provinciegeleed","freshwater"
-"Legeweg",45546,209584,659,1,659,"Archimedes screw","Ieperleed","freshwater"
-"Lammergeleed",49026,204893,252,1,252,"submersible pump","Grootgeleed","freshwater"
-"Nieuwland",54138,205183,839,1,839,"Archimedes screw","Vaartdijkgeleed","freshwater"
-"Bourgogne",54305,205674,0,1,NA,"Archimedes screw","Boergonjevaart","freshwater"
-"Zevekote",48250,204082,4680,1,4680,"axial flow","Nieuw dwarsgeleed","freshwater"
-"Doeve 1",54230,205519,10800,1,5400,"axial flow","Moerdijkvaart","freshwater"
-"Doeve 1",54230,205519,10800,1,5400,"axial flow","Moerdijkvaart","freshwater"
-"Doeve 2",54230,205519,4320,1,4320,"Archimedes screw","Moerdijkvaart","freshwater"
-"Kalsijde 1",48131,208085,2398,1,1199,"axial flow","Kanaal Plassendale-Duinkerken","freshwater"
-"Kalsijde 1",48131,208085,2398,1,1199,"axial flow","Kanaal Plassendale-Duinkerken","freshwater"
-"Kalsijde 2",48131,208085,1584,1,1584,"submersible pump","Kanaal Plassendale-Duinkerken","freshwater"
-"Hondsnest",126189,208411,7200,1,3600,"Archimedes screw","Kanaal van Stekene","freshwater"
-"Hondsnest",126189,208411,7200,1,3600,"Archimedes screw","Kanaal van Stekene","freshwater"
-"Sinaai",124270,205227,7200,1,2400,"axial flow-closed","Moervaart",NA
-"Sinaai",124270,205227,7200,1,2400,"axial flow-closed","Moervaart",NA
-"Sinaai",124270,205227,7200,1,2400,"axial flow-closed","Moervaart",NA
-"Leebrugse Meersen",123702,204795,1200,1,1200,"axial flow-closed","Moervaart","freshwater"
-"Daknamse Meersen",122774,201397,7200,1,2400,"axial flow-closed","Durme","freshwater"
-"Daknamse Meersen",122774,201397,7200,1,2400,"axial flow-closed","Durme","freshwater"
-"Daknamse Meersen",122774,201397,7200,1,2400,"axial flow-closed","Durme","freshwater"
-"Ijskelder",154149,214315,28800,1,7200,"Archimedes screw","lobroekdok",NA
-"Ijskelder",154149,214315,28800,1,7200,"Archimedes screw","lobroekdok",NA
-"Ijskelder",154149,214315,28800,1,7200,"Archimedes screw","lobroekdok",NA
-"Ijskelder",154149,214315,28800,1,7200,"Archimedes screw","lobroekdok",NA
-"Burchtse Weel",149076,210831,10800,1,3600,"axial flow-vertical","Burchtse Weel","estuary"
-"Burchtse Weel",149076,210831,10800,1,3600,"axial flow-vertical","Burchtse Weel","estuary"
-"Burchtse Weel",149076,210831,10800,1,3600,"axial flow-vertical","Burchtse Weel","estuary"
-"Damse vaart",75232,217982,720,1,720,"Archimedes screw","Kanaal Brugge naar Sluis","freshwater"
-"Damsloot",109646,192111,9600,1,2400,"centrifugal","Zeeschelde","estuary"
-"Damsloot",109646,192111,9600,1,2400,"centrifugal","Zeeschelde","estuary"
-"Damsloot",109646,192111,9600,1,2400,"centrifugal","Zeeschelde","estuary"
-"Damsloot",109646,192111,9600,1,2400,"centrifugal","Zeeschelde","estuary"
-"Esen",47523,192742,3600,1,3600,"Archimedes screw","Handzamevaart","freshwater"
-"Greven",244203,187794,5200,1,400,"centrifugal","Zuid-Willemsvaart","freshwater"
-"Greven",244203,187794,5200,1,400,"centrifugal","Zuid-Willemsvaart","freshwater"
-"Greven",244203,187794,5200,1,900,"centrifugal","Zuid-Willemsvaart","freshwater"
-"Greven",244203,187794,5200,1,900,"centrifugal","Zuid-Willemsvaart","freshwater"
-"Greven",244203,187794,5200,1,650,"centrifugal","Zuid-Willemsvaart","freshwater"
-"Greven",244203,187794,5200,1,650,"centrifugal","Zuid-Willemsvaart","freshwater"
-"Greven",244203,187794,5200,1,650,"centrifugal","Zuid-Willemsvaart","freshwater"
-"Greven",244203,187794,5200,1,650,"centrifugal","Zuid-Willemsvaart","freshwater"
-"Helderbeek",212383,193442,340,1,170,"axial flow","Helderbeek","freshwater"
-"Helderbeek",212383,193442,340,1,170,"axial flow","Helderbeek","freshwater"
-"Hellestraat",142904,161955,300,1,300,"submersible pump","Lotbeek","freshwater"
-"Kleuterweg",215151,193013,320,1,160,"axial flow","Halbeek","freshwater"
-"Kleuterweg",215151,193013,320,1,160,"axial flow","Halbeek","freshwater"
-"Kroploop",203258,209592,2000,1,2000,"Archimedes screw","Scheppelijke Nete","freshwater"
-"Laak",171031,206951,3600,1,1800,"axial flow","Nijlense beek","freshwater"
-"Laak",171031,206951,3600,1,1800,"axial flow","Nijlense beek","freshwater"
-"Laambeek",216349,188315,760,1,380,"axial flow","vijvers","freshwater"
-"Laambeek",216349,188315,760,1,380,"axial flow","vijvers","freshwater"
-"Leebeek",105769,189329,1800,1,1800,"Archimedes screw","Ringvaart Om Gent","freshwater"
-"Meerspoort 1",95664,169915,7200,1,2400,"axial flow","Bovenschelde","freshwater"
-"Meerspoort 1",95664,169915,7200,1,2400,"axial flow","Bovenschelde","freshwater"
-"Meerspoort 1",95664,169915,7200,1,2400,"axial flow","Bovenschelde","freshwater"
-"Meerspoort 2",95664,169915,480,1,160,"centrifugal","Proceswater","freshwater"
-"Meerspoort 2",95664,169915,480,1,160,"centrifugal","Proceswater","freshwater"
-"Meerspoort 2",95664,169915,480,1,160,"centrifugal","Proceswater","freshwater"
-"Meeswijk",246897,188799,5040,1,1260,"centrifugal","Rachelsbeek","freshwater"
-"Meeswijk",246897,188799,5040,1,1260,"centrifugal","Rachelsbeek","freshwater"
-"Meeswijk",246897,188799,5040,1,1260,"centrifugal","Rachelsbeek","freshwater"
-"Meeswijk",246897,188799,5040,1,1260,"centrifugal","Rachelsbeek","freshwater"
-"Nijlense beek",171016,206991,8400,1,2800,"axial flow","Kleine Nete","freshwater"
-"Nijlense beek",171016,206991,8400,1,2800,"axial flow","Kleine Nete","freshwater"
-"Nijlense beek",171016,206991,8400,1,2800,"axial flow","Kleine Nete","freshwater"
-"Rietgracht",109589,192326,2700,1,2700,"submersible pump","Zeeschelde","estuary"
-"Werken",51287,191402,3600,1,1800,"axial flow","Handzamevaart","freshwater"
-"Werken",51287,191402,3600,1,1800,"axial flow","Handzamevaart","freshwater"
-"Zilveren Speye",44969,200999,9120,1,4560,"Archimedes screw","Vladslovaart","freshwater"
-"Zilveren Speye",44969,200999,9120,1,4560,"Archimedes screw","Vladslovaart","freshwater"
+"Name","X","Y","Total.capacity..m3.per.h.","Number.of.pumps","Individual.capacity..m3.per.h.","Pump.type","name.water.body","Discharge.into.freshwater.or.estuary.sea","Longitude","Latitude"
+"Perwijsbeek",159734,198195,1800,1,600,"centrifugal","Nete","estuary",4.5077026313168,51.0937786485894
+"Perwijsbeek",159734,198195,1800,1,600,"centrifugal","Nete","estuary",4.5077026313168,51.0937786485894
+"Perwijsbeek",159734,198195,1800,1,600,"centrifugal","Nete","estuary",4.5077026313168,51.0937786485894
+"Eekhoven",156619,196049,12600,1,1800,"Archimedes screw","Nete","estuary",4.46319876948208,51.0745328845441
+"Eekhoven",156619,196049,12600,1,3600,"Archimedes screw","Nete","estuary",4.46319876948208,51.0745328845441
+"Eekhoven",156619,196049,12600,1,3600,"Archimedes screw","Nete","estuary",4.46319876948208,51.0745328845441
+"Eekhoven",156619,196049,12600,1,3600,"Archimedes screw","Nete","estuary",4.46319876948208,51.0745328845441
+"Sint-Annapolder",100242,217566,400,1,400,"submersible pump","Leopoldkanaal","freshwater",3.65586032571349,51.2658352047143
+"Voorde",114030,188125,2400,1,1200,"submersible pump","Zeeschelde","estuary",3.85630488328728,51.0022298468372
+"Voorde",114030,188125,2400,1,1200,"submersible pump","Zeeschelde","estuary",3.85630488328728,51.0022298468372
+"Denderbellebroek",129274,189396,21600,1,5400,"axial flow","Dender","freshwater",4.07340484573862,51.014398906839
+"Denderbellebroek",129274,189396,21600,1,5400,"axial flow","Dender","freshwater",4.07340484573862,51.014398906839
+"Denderbellebroek",129274,189396,21600,1,5400,"axial flow","Dender","freshwater",4.07340484573862,51.014398906839
+"Denderbellebroek",129274,189396,21600,1,5400,"axial flow","Dender","freshwater",4.07340484573862,51.014398906839
+"Gijzegem",128254,185144,9792,1,4896,"axial flow","Dender","freshwater",4.05912189867517,50.9761402542699
+"Gijzegem",128254,185144,9792,1,4896,"axial flow","Dender","freshwater",4.05912189867517,50.9761402542699
+"De Katte",64352,211976,6480,1,3240,"Archimedes screw","Kanaal Van Gent Naar Oostende","freshwater",3.14304827698318,51.2113863795084
+"De Katte",64352,211976,6480,1,3240,"Archimedes screw","Kanaal Van Gent Naar Oostende","freshwater",3.14304827698318,51.2113863795084
+"Kwetshage-Paddegat",59732,211051,12000,1,4000,"Archimedes screw","Kanaal Van Gent Naar Oostende","freshwater",3.07717450645527,51.2023697713408
+"Kwetshage-Paddegat",59732,211051,12000,1,4000,"Archimedes screw","Kanaal Van Gent Naar Oostende","freshwater",3.07717450645527,51.2023697713408
+"Kwetshage-Paddegat",59732,211051,12000,1,4000,"Archimedes screw","Kanaal Van Gent Naar Oostende","freshwater",3.07717450645527,51.2023697713408
+"De Steeger",61005,211184,12096,1,4032,"Archimedes screw","Kanaal Van Gent Naar Oostende","freshwater",3.09535278544035,51.2037625740501
+"De Steeger",61005,211184,12096,1,4032,"Archimedes screw","Kanaal Van Gent Naar Oostende","freshwater",3.09535278544035,51.2037625740501
+"De Steeger",61005,211184,12096,1,4032,"Archimedes screw","Kanaal Van Gent Naar Oostende","freshwater",3.09535278544035,51.2037625740501
+"Waasmunster",127814,199114,6480,1,2160,"axial flow","Benedendurme","estuary",4.05201033247269,51.1016985515554
+"Waasmunster",127814,199114,6480,1,2160,"axial flow","Benedendurme","estuary",4.05201033247269,51.1016985515554
+"Waasmunster",127814,199114,6480,1,2160,"axial flow","Benedendurme","estuary",4.05201033247269,51.1016985515554
+"Grootbroek",132542,192344,16200,1,5400,"centrifugal","Zeeschelde","estuary",4.11983371463967,51.0410057393843
+"Grootbroek",132542,192344,16200,1,5400,"centrifugal","Zeeschelde","estuary",4.11983371463967,51.0410057393843
+"Grootbroek",132542,192344,16200,1,5400,"centrifugal","Zeeschelde","estuary",4.11983371463967,51.0410057393843
+"Gespoelde put",137028,195266,1755,1,585,"axial flow","Zeeschelde","estuary",4.18369268758355,51.0673887657648
+"Gespoelde put",137028,195266,1755,1,585,"axial flow","Zeeschelde","estuary",4.18369268758355,51.0673887657648
+"Gespoelde put",137028,195266,1755,1,585,"axial flow","Zeeschelde","estuary",4.18369268758355,51.0673887657648
+"Oud-veerstraat",146859,206295,2040,1,1020,"axial flow-closed","Akkersbeek","freshwater",4.32385119008906,51.1666614817114
+"Oud-veerstraat",146859,206295,2040,1,1020,"axial flow-closed","Akkersbeek","freshwater",4.32385119008906,51.1666614817114
+"Seine",25205,191884,4200,1,2100,"Archimedes screw","Ringsloot","freshwater",2.58988101325671,51.0237047350325
+"Seine",25205,191884,4200,1,2100,"Archimedes screw","Ringsloot","freshwater",2.58988101325671,51.0237047350325
+"Sint-Karelsmolen",26824,194766,4200,1,2100,"Archimedes screw","Ringsloot","freshwater",2.61197877680519,51.0499499888918
+"Sint-Karelsmolen",26824,194766,4200,1,2100,"Archimedes screw","Ringsloot","freshwater",2.61197877680519,51.0499499888918
+"Baudouin",26824,194767,2700,1,2700,"centrifugal","Ringsloot","freshwater",2.61197843955784,51.0499589753278
+"Volvo",109709,198116,2040,1,1020,"Archimedes screw","Westlede","freshwater",3.79364660032246,51.091752034037
+"Volvo",109709,198116,2040,1,1020,"Archimedes screw","Westlede","freshwater",3.79364660032246,51.091752034037
+"Rodenhuyze",109685,202997,4500,1,1500,"axial flow-closed","Moervaart","freshwater",3.79276424713157,51.1356231303066
+"Rodenhuyze",109685,202997,4500,1,1500,"axial flow-closed","Moervaart","freshwater",3.79276424713157,51.1356231303066
+"Rodenhuyze",109685,202997,4500,1,1500,"axial flow-closed","Moervaart","freshwater",3.79276424713157,51.1356231303066
+"Lange Kromme",112401,204190,4500,1,1500,"axial flow-open","Zuidlede","freshwater",3.8314439595956,51.1465290915153
+"Lange Kromme",112401,204190,4500,1,1500,"axial flow-open","Zuidlede","freshwater",3.8314439595956,51.1465290915153
+"Lange Kromme",112401,204190,4500,1,1500,"axial flow-open","Zuidlede","freshwater",3.8314439595956,51.1465290915153
+"Sint-Kruis-Winkel",111915,204453,2160,1,1080,"axial flow-open","Moervaart","freshwater",3.82447145400828,51.1488612648178
+"Sint-Kruis-Winkel",111915,204453,2160,1,1080,"axial flow-open","Moervaart","freshwater",3.82447145400828,51.1488612648178
+"Langelede",113980,206180,3900,1,1500,"axial flow-vertical","Moervaart","freshwater",3.8538111456356,51.1645164142567
+"Langelede",113980,206180,3900,1,1500,"axial flow-vertical","Moervaart","freshwater",3.8538111456356,51.1645164142567
+"Langelede",113980,206180,3900,1,900,"axial flow-vertical","Moervaart","freshwater",3.8538111456356,51.1645164142567
+"Sint-Francispolder",113395,211564,900,1,900,"Archimedes screw","NEDERLAND","freshwater / Netherlands",3.84490589793928,51.2128725769229
+"Sint-Elooi",114535,211376,1020,1,1020,"Archimedes screw","NEDERLAND","freshwater / Netherlands",3.86123821318677,51.2112538631241
+"Kalve Brug",116224,206348,4800,1,2400,"axial flow-open","Moervaart","freshwater",3.88587508362077,51.1661618003056
+"Kalve Brug",116224,206348,4800,1,2400,"axial flow-open","Moervaart","freshwater",3.88587508362077,51.1661618003056
+"Kalve Terwest",116953,206574,1800,1,900,"axial flow-vertical","Moervaart","freshwater",3.89627649083539,51.1682352689213
+"Kalve Terwest",116953,206574,1800,1,900,"axial flow-vertical","Moervaart","freshwater",3.89627649083539,51.1682352689213
+"Lege Zijde",119969,204629,2400,1,1200,"axial flow-open","Zuidlede","freshwater",3.9395564044343,51.1509171155625
+"Lege Zijde",119969,204629,2400,1,1200,"axial flow-open","Zuidlede","freshwater",3.9395564044343,51.1509171155625
+"Ondergemaal Zaffelare",114468,203047,0,1,NA,"Archimedes screw","Zaffelaarsvaardeken","freshwater",3.86109323293768,51.1363858726843
+"Ondergemaal Zaffelare",114468,203047,0,1,NA,"Archimedes screw","Zaffelaarsvaardeken","freshwater",3.86109323293768,51.1363858726843
+"Stenen Brug",117373,204339,2400,1,2400,"Archimedes screw","Zuidlede","freshwater",3.9024815280153,51.148169972566
+"Valleien van Zuidlede en Moervaart",120592,204739,6000,1,2400,"centrifugal","Zuidlede","freshwater",3.94845118851358,51.1519378294469
+"Valleien van Zuidlede en Moervaart",120592,204739,6000,1,1800,"axial flow-open","Zuidlede","freshwater",3.94845118851358,51.1519378294469
+"Valleien van Zuidlede en Moervaart",120592,204739,6000,1,1800,"axial flow-open","Zuidlede","freshwater",3.94845118851358,51.1519378294469
+"Bosdam A",116564,204077,3000,1,3000,"centrifugal","Zuidlede","freshwater",3.89094441485843,51.1457688355527
+"Bosdam B",116603,204097,3000,1,1500,"axial flow-vertical","Zuidlede","freshwater",3.8914998889973,51.1459508559436
+"Bosdam B",116603,204097,3000,1,1500,"axial flow-vertical","Zuidlede","freshwater",3.8914998889973,51.1459508559436
+"Weehaege",122698,202202,11400,1,6000,"axial flow-vertical","Durme","freshwater",3.97874014326069,51.1292370510098
+"Weehaege",122698,202202,11400,1,3000,"axial flow-vertical","Durme","freshwater",3.97874014326069,51.1292370510098
+"Weehaege",122698,202202,11400,1,2400,"axial flow-vertical","Durme","freshwater",3.97874014326069,51.1292370510098
+"Gemalen van de Ledebeek",124847,198678,13200,1,3600,"Archimedes screw","Durme","estuary",4.00968165030225,51.0976583574986
+"Gemalen van de Ledebeek",124847,198678,13200,1,3600,"Archimedes screw","Durme","estuary",4.00968165030225,51.0976583574986
+"Gemalen van de Ledebeek",124847,198678,13200,1,1500,"Archimedes screw","Durme","estuary",4.00968165030225,51.0976583574986
+"Gemalen van de Ledebeek",124847,198678,13200,1,1500,"Archimedes screw","Durme","estuary",4.00968165030225,51.0976583574986
+"Gemalen van de Ledebeek",124847,198678,13200,1,1500,"Archimedes screw","Durme","estuary",4.00968165030225,51.0976583574986
+"Gemalen van de Ledebeek",124847,198678,13200,1,1500,"Archimedes screw","Durme","estuary",4.00968165030225,51.0976583574986
+"Etbos",118364,204367,517,1,517,"submersible pump","Zuidlede","freshwater",3.91664120460288,51.1484766538107
+"Destelbergen",110541,196052,1590,1,795,"Archimedes screw","Zuidlede","freshwater",3.80574512650942,51.0732568411634
+"Destelbergen",110541,196052,1590,1,795,"Archimedes screw","Zuidlede","freshwater",3.80574512650942,51.0732568411634
+"Vispoelbeek",119239,197088,375,1,375,"submersible pump","Vispoelbeek","freshwater",3.92975972985103,51.0830959016439
+"De Wilde Speele",114489,204304,120,1,120,"submersible pump","Zuidlede","freshwater",3.86127068492044,51.1476856385788
+"Spletteren",123020,203726,3720,1,2400,"centrifugal","Moervaart","freshwater",3.98322708268093,51.1429506945933
+"Spletteren",123020,203726,3720,1,1320,"axial flow-vertical","Moervaart","freshwater",3.98322708268093,51.1429506945933
+"Bulskamp Nieuwegracht",29104,193974,6000,1,3000,"axial flow-open","Bergenvaart","freshwater",2.64474721701111,51.0433128315503
+"Bulskamp Nieuwegracht",29104,193974,6000,1,3000,"axial flow-open","Bergenvaart","freshwater",2.64474721701111,51.0433128315503
+"Steenkerke Kortewilde",31668,194913,4320,1,2160,"Archimedes screw","Lokanaal en Steengracht","freshwater",2.68099361168791,51.0522804805384
+"Steenkerke Kortewilde",31668,194913,4320,1,2160,"Archimedes screw","Lokanaal en Steengracht","freshwater",2.68099361168791,51.0522804805384
+"Houtem Westmoere",24671,189919,1320,1,660,"axial flow-open","Bergenvaart","freshwater",2.5829453746366,51.0059311582073
+"Houtem Westmoere",24671,189919,1320,1,660,"axial flow-open","Bergenvaart","freshwater",2.5829453746366,51.0059311582073
+"Veurne Moerhol",26738,195353,462,1,462,"Archimedes screw","VHAG 1295","freshwater",2.61055454969113,51.0552067323181
+"Lo Fintele",35324,184335,5400,1,2700,"Archimedes screw","Lokanaal","freshwater",2.73643661929408,50.9579520706239
+"Lo Fintele",35324,184335,5400,1,2700,"Archimedes screw","Lokanaal","freshwater",2.73643661929408,50.9579520706239
+"Lo Lolege",35610,188162,1188,1,1188,"Archimedes screw","Lokanaal","freshwater",2.73931155541756,50.9924017738049
+"Wulveringem",33173,193758,540,1,540,"axial flow-open","VHAG 1219","freshwater",2.70282148009577,51.0422062423629
+"Wulpen Veldweg 1",35433,200846,72,1,72,"axial flow-open","Bommelarevaart",NA,2.73281260727789,51.1063551104927
+"Wulpen Veldweg 2",35413,200780,72,1,72,"axial flow-open","Bommelarevaart","freshwater",2.7325478677668,51.1057580360752
+"Wulpen Weidestraat",34437,199273,240,1,240,"axial flow-open","Bommelarevaart","freshwater",2.71909375736383,51.0920212117655
+"Veurne Calonnegracht",29540,196223,72,1,72,"axial flow-open","Bergenvaart","freshwater",2.65022061766287,51.0636143363331
+"Houtem 100 gemete",25203,191790,432,1,432,"axial flow-open","Ringsloot","freshwater",2.58988459745019,51.0228595779662
+"Ramskapelle",38225,202780,432,1,432,"Archimedes screw","Grote Beverdijkvaart","freshwater",2.77207465753048,51.1242812527287
+"Sint-Onolfs I",130864,192033,3600,1,1800,"axial flow-open","Zeeschelde","estuary",4.09592474526378,51.0381573304214
+"Sint-Onolfs I",130864,192033,3600,1,1800,"axial flow-open","Zeeschelde","estuary",4.09592474526378,51.0381573304214
+"Sint-Onolfs II",129690,193247,3600,1,1800,"submersible pump","Zeeschelde","estuary",4.07911932436341,51.0490299880392
+"Sint-Onolfs II",129690,193247,3600,1,1800,"submersible pump","Zeeschelde","estuary",4.07911932436341,51.0490299880392
+"Sint-Trudo",72112,207727,4200,1,2100,"Archimedes screw","Hoofdsloot","freshwater",3.2549957043639,51.174297157348
+"Sint-Trudo",72112,207727,4200,1,2100,"Archimedes screw","Hoofdsloot","freshwater",3.2549957043639,51.174297157348
+"Zele-Hoek",126680,198261,12600,1,4200,"axial flow-closed","Benedendurme","estuary",4.03587510370457,51.0939866839458
+"Zele-Hoek",126680,198261,12600,1,4200,"axial flow-closed","Benedendurme","estuary",4.03587510370457,51.0939866839458
+"Zele-Hoek",126680,198261,12600,1,4200,"axial flow-closed","Benedendurme","estuary",4.03587510370457,51.0939866839458
+"Zele-Dijk",127584,192818,6120,1,3060,"axial flow-closed","Zeeschelde","estuary",4.04911280905424,51.0450962658746
+"Zele-Dijk",127584,192818,6120,1,3060,"axial flow-closed","Zeeschelde","estuary",4.04911280905424,51.0450962658746
+"Konkel",125628,188982,7200,1,2400,"axial flow","Zeeschelde","estuary",4.02147681319805,51.0105359510104
+"Konkel",125628,188982,7200,1,2400,"axial flow","Zeeschelde","estuary",4.02147681319805,51.0105359510104
+"Konkel",125628,188982,7200,1,2400,"axial flow","Zeeschelde","estuary",4.02147681319805,51.0105359510104
+"Leeggoed",121588,190262,4800,1,2400,"centrifugal","Zeeschelde","estuary",3.96381241133986,51.0218581770898
+"Leeggoed",121588,190262,4800,1,2400,"centrifugal","Zeeschelde","estuary",3.96381241133986,51.0218581770898
+"Turfput",123197,190526,6480,1,3240,"axial flow","Broekse vaart","freshwater",3.98672496646023,51.0243077587606
+"Turfput",123197,190526,6480,1,3240,"axial flow","Broekse vaart","freshwater",3.98672496646023,51.0243077587606
+"Baasrode",135349,192788,14400,1,4800,"centrifugal","Zeeschelde","estuary",4.15983877770046,51.0450743778217
+"Baasrode",135349,192788,14400,1,4800,"centrifugal","Zeeschelde","estuary",4.15983877770046,51.0450743778217
+"Baasrode",135349,192788,14400,1,4800,"centrifugal","Zeeschelde","estuary",4.15983877770046,51.0450743778217
+"Hoofdsloot",146595,198369,0,1,NA,"centrifugal","Grote Molenbeek","freshwater",4.32014998994852,51.0954156570137
+"Ronselaerebeek",73445,219891,19440,1,6480,"axial flow","Afleidingskanaal Van De Leie","freshwater",3.27148557267375,51.2837977009145
+"Ronselaerebeek",73445,219891,19440,1,6480,"axial flow","Afleidingskanaal Van De Leie","freshwater",3.27148557267375,51.2837977009145
+"Ronselaerebeek",73445,219891,19440,1,6480,"axial flow","Afleidingskanaal Van De Leie","freshwater",3.27148557267375,51.2837977009145
+"De Zegge",187654,209910,3672,1,1224,"axial flow-vertical","Kleine Nete","freshwater",4.90744906288571,51.1979323306565
+"De Zegge",187654,209910,3672,1,1224,"axial flow-vertical","Kleine Nete","freshwater",4.90744906288571,51.1979323306565
+"De Zegge",187654,209910,3672,1,1224,"axial flow-vertical","Kleine Nete","freshwater",4.90744906288571,51.1979323306565
+"Sluiskensweg",171782,237813,1440,1,1440,"Archimedes screw","Blanken Aartloop","freshwater",4.68207040179737,51.4495404937554
+"Kijkverdriet",196391,227378,900,1,450,"centrifugal","Kanaal Dessel-Schoten","freshwater",5.03468119635385,51.3542950656815
+"Kijkverdriet",196391,227378,900,1,450,"centrifugal","Kanaal Dessel-Schoten","freshwater",5.03468119635385,51.3542950656815
+"Wullebeek",146178,200613,7344,1,2448,"axial flow-vertical","Rupel","estuary",4.31417412617381,51.1155838928715
+"Wullebeek",146178,200613,7344,1,2448,"axial flow-vertical","Rupel","estuary",4.31417412617381,51.1155838928715
+"Wullebeek",146178,200613,7344,1,2448,"axial flow-vertical","Rupel","estuary",4.31417412617381,51.1155838928715
+"Lisperloop",164460,203183,2160,1,720,"centrifugal","Kleine Nete","freshwater",4.57536180828513,51.1385151181433
+"Lisperloop",164460,203183,2160,1,720,"centrifugal","Kleine Nete","freshwater",4.57536180828513,51.1385151181433
+"Lisperloop",164460,203183,2160,1,720,"centrifugal","Kleine Nete","freshwater",4.57536180828513,51.1385151181433
+"Goorbosbeek",157848,196266,10080,1,5040,"axial flow-vertical","Grote Nete","freshwater",4.48073942436974,51.0764680074945
+"Goorbosbeek",157848,196266,10080,1,5040,"axial flow-vertical","Grote Nete","freshwater",4.48073942436974,51.0764680074945
+"Wouwendonksebeek",159015,197493,5040,1,5040,"axial flow-vertical","Grote Nete","freshwater",4.49742192071053,51.087480213335
+"Itterbeek",161077,199793,10080,1,5040,"axial flow-vertical","Grote Nete","freshwater",4.52692186240224,51.1081184386647
+"Itterbeek",161077,199793,10080,1,5040,"axial flow-vertical","Grote Nete","freshwater",4.52692186240224,51.1081184386647
+"Lachenebeek",162224,200544,10080,1,5040,"axial flow-vertical","Grote Nete","freshwater",4.54332484744349,51.1148457793377
+"Lachenebeek",162224,200544,10080,1,5040,"axial flow-vertical","Grote Nete","freshwater",4.54332484744349,51.1148457793377
+"Gestelbeek",169490,201771,10080,1,5040,"axial flow-vertical","Grote Nete","freshwater",4.64715429594912,51.12567506962
+"Gestelbeek",169490,201771,10080,1,5040,"axial flow-vertical","Grote Nete","freshwater",4.64715429594912,51.12567506962
+"Molenbeek",159997,198881,4572,1,2286,"axial flow-vertical","Grote Nete","freshwater",4.5114756956995,51.0999404494605
+"Molenbeek",159997,198881,4572,1,2286,"axial flow-vertical","Grote Nete","freshwater",4.5114756956995,51.0999404494605
+"Melle Heusdenbaan",109159,191057,4240,1,1400,"submersible pump","Zeeschelde","estuary",3.78658532576852,51.0282627061246
+"Melle Heusdenbaan",109159,191057,4240,1,1440,"submersible pump","Zeeschelde","estuary",3.78658532576852,51.0282627061246
+"Melle Heusdenbaan",109159,191057,4240,1,1400,"submersible pump","Zeeschelde","estuary",3.78658532576852,51.0282627061246
+"Schoonaarde provinciebaan",125425,188547,3744,1,792,"centrifugal","Zeeschelde","estuary",4.01861346940964,51.0066171946984
+"Schoonaarde provinciebaan",125425,188547,3744,1,792,"centrifugal","Zeeschelde","estuary",4.01861346940964,51.0066171946984
+"Schoonaarde provinciebaan",125425,188547,3744,1,1080,"centrifugal","Zeeschelde","estuary",4.01861346940964,51.0066171946984
+"Schoonaarde provinciebaan",125425,188547,3744,1,1080,"centrifugal","Zeeschelde","estuary",4.01861346940964,51.0066171946984
+"Loeverbeek",131490,212679,6480,1,2160,"submersible pump","Waterloop van de hoge landen","freshwater",4.10380222135313,51.2237569028841
+"Loeverbeek",131490,212679,6480,1,2160,"submersible pump","Waterloop van de hoge landen","freshwater",4.10380222135313,51.2237569028841
+"Loeverbeek",131490,212679,6480,1,2160,"submersible pump","Waterloop van de hoge landen","freshwater",4.10380222135313,51.2237569028841
+"Rode Weel",148151,221697,72000,1,14400,"axial flow-vertical","Havendok","freshwater",4.34224591311589,51.3051052160343
+"Rode Weel",148151,221697,72000,1,14400,"axial flow-vertical","Havendok","freshwater",4.34224591311589,51.3051052160343
+"Rode Weel",148151,221697,72000,1,14400,"axial flow-vertical","Havendok","freshwater",4.34224591311589,51.3051052160343
+"Rode Weel",148151,221697,72000,1,14400,"axial flow-vertical","Havendok","freshwater",4.34224591311589,51.3051052160343
+"Rode Weel",148151,221697,72000,1,14400,"axial flow-vertical","Havendok","freshwater",4.34224591311589,51.3051052160343
+"Noordland",145355,227968,5410,1,620,"axial flow","Schelde Rijnverbindingskanaal","freshwater",4.30207368524695,51.3614532487403
+"Noordland",145355,227968,5410,1,620,"axial flow","Schelde Rijnverbindingskanaal","freshwater",4.30207368524695,51.3614532487403
+"Noordland",145355,227968,5410,1,1160,"axial flow","Schelde Rijnverbindingskanaal","freshwater",4.30207368524695,51.3614532487403
+"Noordland",145355,227968,5410,1,1160,"axial flow","Schelde Rijnverbindingskanaal","freshwater",4.30207368524695,51.3614532487403
+"Noordland",145355,227968,5410,1,1500,"centrifugal","Schelde Rijnverbindingskanaal","freshwater",4.30207368524695,51.3614532487403
+"Noordland",145355,227968,5410,1,350,"centrifugal","Schelde Rijnverbindingskanaal","freshwater",4.30207368524695,51.3614532487403
+"Roerdompstraat",189617,210233,270,1,270,"Archimedes screw","Vijzelloopje","freshwater",4.93556669447644,51.2007040084847
+"Vrouwvliet",155613,193158,86400,1,14400,"axial flow-open","Dijle","estuary",4.44879982074701,51.0485566661754
+"Vrouwvliet",155613,193158,86400,1,14400,"axial flow-open","Dijle","estuary",4.44879982074701,51.0485566661754
+"Vrouwvliet",155613,193158,86400,1,14400,"axial flow-open","Dijle","estuary",4.44879982074701,51.0485566661754
+"Vrouwvliet",155613,193158,86400,1,14400,"axial flow-open","Dijle","estuary",4.44879982074701,51.0485566661754
+"Vrouwvliet",155613,193158,86400,1,14400,"axial flow-open","Dijle","estuary",4.44879982074701,51.0485566661754
+"Vrouwvliet",155613,193158,86400,1,14400,"axial flow-open","Dijle","estuary",4.44879982074701,51.0485566661754
+"Stenegoot",138516,214722,9720,1,2430,"axial flow-closed","Waterloop van de hoge landen","freshwater",4.20430878304933,51.242302028864
+"Stenegoot",138516,214722,9720,1,2430,"axial flow-closed","Waterloop van de hoge landen","freshwater",4.20430878304933,51.242302028864
+"Stenegoot",138516,214722,9720,1,2430,"axial flow-closed","Waterloop van de hoge landen","freshwater",4.20430878304933,51.242302028864
+"Stenegoot",138516,214722,9720,1,2430,"axial flow-closed","Waterloop van de hoge landen","freshwater",4.20430878304933,51.242302028864
+"Keetberg",142902,214882,5760,1,1920,"axial flow-closed","Waterloop van de hoge landen","freshwater",4.26711249162942,51.2438104237305
+"Keetberg",142902,214882,5760,1,1920,"axial flow-closed","Waterloop van de hoge landen","freshwater",4.26711249162942,51.2438104237305
+"Keetberg",142902,214882,5760,1,1920,"axial flow-closed","Waterloop van de hoge landen","freshwater",4.26711249162942,51.2438104237305
+"Benedenvliet",147065,202189,6480,1,1620,"axial flow","Scheldebeek","freshwater",4.32682889558614,51.1297552179746
+"Benedenvliet",147065,202189,6480,1,1620,"axial flow","Scheldebeek","freshwater",4.32682889558614,51.1297552179746
+"Benedenvliet",147065,202189,6480,1,1620,"axial flow","Scheldebeek","freshwater",4.32682889558614,51.1297552179746
+"Benedenvliet",147065,202189,6480,1,1620,"axial flow","Scheldebeek","freshwater",4.32682889558614,51.1297552179746
+"Lobroekdok",155000,213313,7200,1,1800,"Archimedes screw","lobroekdok","lobroekdok",4.44033787788965,51.2297287153337
+"Lobroekdok",155000,213313,7200,1,1800,"Archimedes screw","lobroekdok","lobroekdok",4.44033787788965,51.2297287153337
+"Lobroekdok",155000,213313,7200,1,1800,"Archimedes screw","lobroekdok","lobroekdok",4.44033787788965,51.2297287153337
+"Lobroekdok",155000,213313,7200,1,1800,"Archimedes screw","lobroekdok","lobroekdok",4.44033787788965,51.2297287153337
+"Schijnpoort",155387,213063,18000,1,6000,"axial flow","lobroekdok","lobroekdok",4.44587441228539,51.2274781109524
+"Schijnpoort",155387,213063,18000,1,6000,"axial flow","lobroekdok","lobroekdok",4.44587441228539,51.2274781109524
+"Schijnpoort",155387,213063,18000,1,6000,"axial flow","lobroekdok","lobroekdok",4.44587441228539,51.2274781109524
+"Veurne-Ambacht",37588,203062,99000,1,19800,"axial flow-vertical","zee","sea",2.76289100560581,51.126692063713
+"Veurne-Ambacht",37588,203062,99000,1,19800,"axial flow-vertical","zee","sea",2.76289100560581,51.126692063713
+"Veurne-Ambacht",37588,203062,99000,1,19800,"axial flow-vertical","zee","sea",2.76289100560581,51.126692063713
+"Veurne-Ambacht",37588,203062,99000,1,19800,"axial flow-vertical","zee","sea",2.76289100560581,51.126692063713
+"Veurne-Ambacht",37588,203062,99000,1,19800,"axial flow-vertical","zee","sea",2.76289100560581,51.126692063713
+"Woumen",41983,188967,14400,1,7200,"axial flow-vertical","IJzer","freshwater",2.82982831597209,51.0008579863014
+"Woumen",41983,188967,14400,1,7200,"axial flow-vertical","IJzer","freshwater",2.82982831597209,51.0008579863014
+"Caemerlinckxcomplex",49583,213790,10800,1,5400,"axial flow","zee","sea",2.93123552841032,51.2253093929736
+"Caemerlinckxcomplex",49583,213790,10800,1,5400,"axial flow","zee","sea",2.93123552841032,51.2253093929736
+"Waarschoot Lieve",98104,202913,10800,1,3600,"axial flow","Klein Brakeleiken","freshwater",3.62732481051594,51.1339456098885
+"Waarschoot Lieve",98104,202913,10800,1,3600,"axial flow","Klein Brakeleiken","freshwater",3.62732481051594,51.1339456098885
+"Waarschoot Lieve",98104,202913,10800,1,3600,"axial flow","Klein Brakeleiken","freshwater",3.62732481051594,51.1339456098885
+"Ertvelde Spiedam",107653,206376,29880,1,5976,"axial flow","Avrijevaart","freshwater",3.76334055015427,51.1658496108443
+"Ertvelde Spiedam",107653,206376,29880,1,2988,"axial flow","Avrijevaart","freshwater",3.76334055015427,51.1658496108443
+"Ertvelde Spiedam",107653,206376,29880,1,5976,"axial flow","Avrijevaart","freshwater",3.76334055015427,51.1658496108443
+"Ertvelde Spiedam",107653,206376,29880,1,2988,"axial flow","Avrijevaart","freshwater",3.76334055015427,51.1658496108443
+"Ertvelde Spiedam",107653,206376,29880,1,5976,"axial flow","Avrijevaart","freshwater",3.76334055015427,51.1658496108443
+"Ertvelde Spiedam",107653,206376,29880,1,2988,"axial flow","Avrijevaart","freshwater",3.76334055015427,51.1658496108443
+"Ertvelde Spiedam",107653,206376,29880,1,2988,"axial flow","Avrijevaart","freshwater",3.76334055015427,51.1658496108443
+"Boekhoute",104189,218777,47520,1,4320,"Archimedes screw","Isabellavaart","freshwater",3.71225390373943,51.2770462622752
+"Boekhoute",104189,218777,47520,1,4320,"Archimedes screw","Isabellavaart","freshwater",3.71225390373943,51.2770462622752
+"Boekhoute",104189,218777,47520,1,12960,"Archimedes screw","Isabellavaart","freshwater",3.71225390373943,51.2770462622752
+"Boekhoute",104189,218777,47520,1,12960,"Archimedes screw","Isabellavaart","freshwater",3.71225390373943,51.2770462622752
+"Boekhoute",104189,218777,47520,1,12960,"Archimedes screw","Isabellavaart","freshwater",3.71225390373943,51.2770462622752
+"Vinderhoute",100102,197680,18000,1,3600,"axial flow","Kanaal Van Gent Naar Oostende","freshwater",3.65658456021464,51.0870853064841
+"Vinderhoute",100102,197680,18000,1,3600,"axial flow","Kanaal Van Gent Naar Oostende","freshwater",3.65658456021464,51.0870853064841
+"Vinderhoute",100102,197680,18000,1,3600,"axial flow","Kanaal Van Gent Naar Oostende","freshwater",3.65658456021464,51.0870853064841
+"Vinderhoute",100102,197680,18000,1,3600,"axial flow","Kanaal Van Gent Naar Oostende","freshwater",3.65658456021464,51.0870853064841
+"Vinderhoute",100102,197680,18000,1,3600,"axial flow","Kanaal Van Gent Naar Oostende","freshwater",3.65658456021464,51.0870853064841
+"Stekene",126829,209779,7128,1,2376,"axial flow","kanaal van stekene","freshwater",4.03726951777539,51.1975228134247
+"Stekene",126829,209779,7128,1,2376,"axial flow","kanaal van stekene","freshwater",4.03726951777539,51.1975228134247
+"Stekene",126829,209779,7128,1,2376,"axial flow","kanaal van stekene","freshwater",4.03726951777539,51.1975228134247
+"Wichelen",118791,189805,29520,1,4680,"axial flow","Zeeschelde","estuary",3.92398799271125,51.0176066284723
+"Wichelen",118791,189805,29520,1,10080,"axial flow","Zeeschelde","estuary",3.92398799271125,51.0176066284723
+"Wichelen",118791,189805,29520,1,10080,"axial flow","Zeeschelde","estuary",3.92398799271125,51.0176066284723
+"Wichelen",118791,189805,29520,1,4680,"axial flow","Zeeschelde","estuary",3.92398799271125,51.0176066284723
+"Vondelbeek",131626,191604,17280,1,4320,"axial flow","Zeeschelde","estuary",4.10681034109636,51.0343256805481
+"Vondelbeek",131626,191604,17280,1,4320,"axial flow","Zeeschelde","estuary",4.10681034109636,51.0343256805481
+"Vondelbeek",131626,191604,17280,1,4320,"axial flow","Zeeschelde","estuary",4.10681034109636,51.0343256805481
+"Vondelbeek",131626,191604,17280,1,4320,"axial flow","Zeeschelde","estuary",4.10681034109636,51.0343256805481
+"Steenbeek",130496,188742,14400,1,3600,"axial flow","Steenbeek","freshwater",4.09085322955303,51.0085624026655
+"Steenbeek",130496,188742,14400,1,3600,"axial flow","Steenbeek","freshwater",4.09085322955303,51.0085624026655
+"Steenbeek",130496,188742,14400,1,3600,"axial flow","Steenbeek","freshwater",4.09085322955303,51.0085624026655
+"Steenbeek",130496,188742,14400,1,3600,"axial flow","Steenbeek","freshwater",4.09085322955303,51.0085624026655
+"Waarschoot Oostmoer",97424,205157,5310,1,1320,"centrifugal","Eeklo'S Leiken","freshwater",3.61728624077767,51.1540537341708
+"Waarschoot Oostmoer",97424,205157,5310,1,1320,"centrifugal","Eeklo'S Leiken","freshwater",3.61728624077767,51.1540537341708
+"Waarschoot Oostmoer",97424,205157,5310,1,1320,"centrifugal","Eeklo'S Leiken","freshwater",3.61728624077767,51.1540537341708
+"Waarschoot Oostmoer",97424,205157,5310,1,240,"centrifugal","Eeklo'S Leiken","freshwater",3.61728624077767,51.1540537341708
+"Waarschoot Oostmoer",97424,205157,5310,1,240,"centrifugal","Eeklo'S Leiken","freshwater",3.61728624077767,51.1540537341708
+"Waarschoot Oostmoer",97424,205157,5310,1,240,"centrifugal","Eeklo'S Leiken","freshwater",3.61728624077767,51.1540537341708
+"Waarschoot Oostmoer",97424,205157,5310,1,630,"submersible pump","Eeklo'S Leiken","freshwater",3.61728624077767,51.1540537341708
+"Egenhoven",170630,171317,2720,1,1360,"submersible pump","VHAG 17171","freshwater",4.661717650092,50.8518828892221
+"Egenhoven",170630,171317,2720,1,1360,"submersible pump","VHAG 17171","freshwater",4.661717650092,50.8518828892221
+"Schulensbroek",205910,184450,14400,1,3600,"axial flow-vertical","Demer","freshwater",5.16470131609431,50.9676090508392
+"Schulensbroek",205910,184450,14400,1,3600,"axial flow-vertical","Demer","freshwater",5.16470131609431,50.9676090508392
+"Schulensbroek",205910,184450,14400,1,3600,"axial flow-vertical","Demer","freshwater",5.16470131609431,50.9676090508392
+"Schulensbroek",205910,184450,14400,1,1800,"axial flow-vertical","Demer","freshwater",5.16470131609431,50.9676090508392
+"Schulensbroek",205910,184450,14400,1,1800,"axial flow-vertical","Demer","freshwater",5.16470131609431,50.9676090508392
+"Ketsbrugge",69883,210348,43200,1,14400,"axial flow","Buitenvestigingsgracht Brugge","freshwater",3.22254888635805,51.1975486098443
+"Ketsbrugge",69883,210348,43200,1,14400,"axial flow","Buitenvestigingsgracht Brugge","freshwater",3.22254888635805,51.1975486098443
+"Ketsbrugge",69883,210348,43200,1,14400,"axial flow","Buitenvestigingsgracht Brugge","freshwater",3.22254888635805,51.1975486098443
+"Zwevegem",77806,168670,5400,1,2700,"axial flow","Kanaal Bossuit-Kortrijk","freshwater",3.34410775012517,50.8239832132234
+"Zwevegem",77806,168670,5400,1,2700,"axial flow","Kanaal Bossuit-Kortrijk","freshwater",3.34410775012517,50.8239832132234
+"Boezinge-Sas",43150,178875,864,1,864,"centrifugal","Kanaal Ieper-Ijzer","freshwater",2.84939034107884,50.9103738792012
+"Kreek Van Nieuwendamme",37276,204049,7200,1,3600,"axial flow","Havengeul Nieuwpoort","sea",2.75812964747705,51.1355011124087
+"Kreek Van Nieuwendamme",37276,204049,7200,1,3600,"axial flow","Havengeul Nieuwpoort","sea",2.75812964747705,51.1355011124087
+"Nieuw Bedelf",37181,204120,7200,1,3600,"axial flow","Havengeul Nieuwpoort","sea",2.75675067993363,51.1361206370351
+"Nieuw Bedelf",37181,204120,7200,1,3600,"axial flow","Havengeul Nieuwpoort","sea",2.75675067993363,51.1361206370351
+"Moen",80403,163502,43200,1,10800,"axial flow-vertical","Kanaal Bossuit-Kortrijk","freshwater",3.38193644734297,50.7778450841749
+"Moen",80403,163502,43200,1,10800,"axial flow-vertical","Kanaal Bossuit-Kortrijk","freshwater",3.38193644734297,50.7778450841749
+"Moen",80403,163502,43200,1,10800,"axial flow-vertical","Kanaal Bossuit-Kortrijk","freshwater",3.38193644734297,50.7778450841749
+"Moen",80403,163502,43200,1,10800,"axial flow-vertical","Kanaal Bossuit-Kortrijk","freshwater",3.38193644734297,50.7778450841749
+"Oostkerke",75351,217628,7200,1,3600,"centrifugal","Schipdonkkanaal","freshwater",3.29926756255339,51.2637093627959
+"Oostkerke",75351,217628,7200,1,3600,"centrifugal","Schipdonkkanaal","freshwater",3.29926756255339,51.2637093627959
+"Veurne-Noodpomp",30775,196913,7200,1,3600,"centrifugal","Lokanaal","freshwater",2.66760808017395,51.0700705432111
+"Veurne-Noodpomp",30775,196913,7200,1,3600,"centrifugal","Lokanaal","freshwater",2.66760808017395,51.0700705432111
+"Boezinge-Dorp",44360,176980,864,1,864,"centrifugal","Kanaal Van Ieper Naar Komen","freshwater",2.86713594397195,50.8935636976164
+"Bossuit",82500,160113,10980,1,2745,"axial flow-vertical","Kanaal Bossuit-Kortrijk","freshwater",3.41228494901607,50.7476280565178
+"Bossuit",82500,160113,10980,1,2745,"axial flow-vertical","Kanaal Bossuit-Kortrijk","freshwater",3.41228494901607,50.7476280565178
+"Bossuit",82500,160113,10980,1,2745,"axial flow-vertical","Kanaal Bossuit-Kortrijk","freshwater",3.41228494901607,50.7476280565178
+"Bossuit",82500,160113,10980,1,2745,"axial flow-vertical","Kanaal Bossuit-Kortrijk","freshwater",3.41228494901607,50.7476280565178
+"Ooigem",77958,176649,8300,1,2075,"axial flow-open","Kanaal Roeselare-Leie","freshwater",3.34470411755177,50.8957222895876
+"Ooigem",77958,176649,8300,1,2075,"axial flow-open","Kanaal Roeselare- Leie","freshwater",3.34470411755177,50.8957222895876
+"Ooigem",77958,176649,8300,1,2075,"axial flow-open","Kanaal Roeselare- Leie","freshwater",3.34470411755177,50.8957222895876
+"Ooigem",77958,176649,8300,1,2075,"axial flow-open","Kanaal Roeselare- Leie","freshwater",3.34470411755177,50.8957222895876
+"Van Hecke",129403,198992,360,1,360,"centrifugal","Benedendurme","estuary",4.07470284621174,51.1006605417462
+"D'Honden",129008,199675,720,1,360,"centrifugal","Benedendurme","estuary",4.06902441800573,51.1067856664594
+"D'Honden",129008,199675,720,1,360,"centrifugal","Benedendurme","estuary",4.06902441800573,51.1067856664594
+"Klein Pontrave",129249,199451,360,1,360,"centrifugal","Benedendurme","estuary",4.07247820199863,51.1047808712251
+"Groot Pontrave",129837,199315,720,1,360,"centrifugal","Benedendurme","estuary",4.08088095150476,51.1035791477711
+"Groot Pontrave",129837,199315,720,1,360,"centrifugal","Benedendurme","estuary",4.08088095150476,51.1035791477711
+"Kloosterbroek",130960,199545,360,1,360,"centrifugal","Benedendurme","estuary",4.09690232555968,51.1056845044355
+"Rodebeek",130810,199305,1560,1,360,"centrifugal","Benedendurme","estuary",4.09477325212373,51.1035222691006
+"Rodebeek",130810,199305,1560,1,1200,"centrifugal","Benedendurme","estuary",4.09477325212373,51.1035222691006
+"Ziel- en Appeldonkbeek",148739,197158,35640,1,9000,"axial flow","Rupel","estuary",4.35075932761425,51.0845386547857
+"Ziel- en Appeldonkbeek",148739,197158,35640,1,9000,"axial flow","Rupel","estuary",4.35075932761425,51.0845386547857
+"Ziel- en Appeldonkbeek",148739,197158,35640,1,9000,"axial flow","Rupel","estuary",4.35075932761425,51.0845386547857
+"Ziel- en Appeldonkbeek",148739,197158,35640,1,2880,"axial flow","Rupel","estuary",4.35075932761425,51.0845386547857
+"Ziel- en Appeldonkbeek",148739,197158,35640,1,2880,"axial flow","Rupel","estuary",4.35075932761425,51.0845386547857
+"Ziel- en Appeldonkbeek",148739,197158,35640,1,2880,"axial flow","Rupel","estuary",4.35075932761425,51.0845386547857
+"Vliet",146521,198473,70560,1,14400,"axial flow-closed","Kanaal Brussel-Rupel","freshwater",4.31909267114206,51.0963500586296
+"Vliet",146521,198473,70560,1,14400,"axial flow-closed","Kanaal Brussel-Rupel","freshwater",4.31909267114206,51.0963500586296
+"Vliet",146521,198473,70560,1,14400,"axial flow-closed","Kanaal Brussel-Rupel","freshwater",4.31909267114206,51.0963500586296
+"Vliet",146521,198473,70560,1,14400,"axial flow-closed","Kanaal Brussel-Rupel","freshwater",4.31909267114206,51.0963500586296
+"Vliet",146521,198473,70560,1,4320,"axial flow-closed","Kanaal Brussel-Rupel","freshwater",4.31909267114206,51.0963500586296
+"Vliet",146521,198473,70560,1,4320,"axial flow-closed","Kanaal Brussel-Rupel","freshwater",4.31909267114206,51.0963500586296
+"Vliet",146521,198473,70560,1,4320,"axial flow-closed","Kanaal Brussel-Rupel","freshwater",4.31909267114206,51.0963500586296
+"Tophat",149395,213994,648,1,324,"centrifugal","Zeeschelde","estuary",4.36009569130139,51.2358715975015
+"Tophat",149395,213994,648,1,324,"centrifugal","Zeeschelde","estuary",4.36009569130139,51.2358715975015
+"Meer",173652,237961,0,1,NA,"Archimedes screw","Nieuwe Meerloop","freshwater",4.70897762426438,51.4507965103133
+"Meerseweg",175948,236504,0,1,NA,"submersible pump","Beekse Venloop","freshwater",4.74189781850801,51.4376025101293
+"Speekloop",173652,237961,0,1,NA,"submersible pump","Heiakkersloop","freshwater",4.70897762426438,51.4507965103133
+"Eeklo's Leiken",92644,207637,9000,1,3000,"axial flow-vertical","Afleidingskanaal Van De Leie","freshwater",3.5485796566968,51.1758898659527
+"Eeklo's Leiken",92644,207637,9000,1,3000,"axial flow-vertical","Afleidingskanaal Van De Leie","freshwater",3.5485796566968,51.1758898659527
+"Eeklo's Leiken",92644,207637,9000,1,3000,"axial flow-vertical","Afleidingskanaal Van De Leie","freshwater",3.5485796566968,51.1758898659527
+"De Gavergracht",114800,161395,900,1,450,"centrifugal","Dender","freshwater",3.86982964818182,50.7619953941737
+"De Gavergracht",114800,161395,900,1,450,"centrifugal","Dender","freshwater",3.86982964818182,50.7619953941737
+"Kasteel Borgitter",250358,206510,0,1,NA,"axial flow","Slotgracht kasteel","freshwater",5.80342091089548,51.1598787433225
+"Woutershof",243534,206232,0,1,NA,"unknown","Abeek","freshwater",5.70581897023727,51.1585257004503
+"Winkelderven",244241,207357,0,1,NA,"unknown","Niet op VHA","freshwater",5.71621523220129,51.1685212692191
+"Zandbergen",120282,165790,0,1,NA,"submersible pump","De Rijt","freshwater",3.94717605891589,50.8018092466227
+"Zandbergen",120282,165790,0,1,NA,"submersible pump","De Rijt","freshwater",3.94717605891589,50.8018092466227
+"Melden",92786,167921,10800,1,2700,"Archimedes screw","Bovenschelde","freshwater",3.55681480791394,50.8189146653608
+"Melden",92786,167921,10800,1,2700,"Archimedes screw","Bovenschelde","freshwater",3.55681480791394,50.8189146653608
+"Melden",92786,167921,10800,1,2700,"Archimedes screw","Bovenschelde","freshwater",3.55681480791394,50.8189146653608
+"Melden",92786,167921,10800,1,2700,"Archimedes screw","Bovenschelde","freshwater",3.55681480791394,50.8189146653608
+"Vrijgeweid",66112,197546,240,1,120,"submersible pump","Rivierbeek","freshwater",3.17155864719758,51.0819555058722
+"Vrijgeweid",66112,197546,240,1,120,"submersible pump","Rivierbeek","freshwater",3.17155864719758,51.0819555058722
+"Rijt",119845,165155,80,1,80,"Archimedes screw","Dender","freshwater",3.94102877798566,50.7960784950141
+"Watermolen",138310,216039,86400,1,14400,"axial flow","Verrebroekdok","freshwater",4.20131654998014,51.2541354555861
+"Watermolen",138310,216039,86400,1,14400,"axial flow","Verrebroekdok","freshwater",4.20131654998014,51.2541354555861
+"Watermolen",138310,216039,86400,1,14400,"axial flow","Verrebroekdok","freshwater",4.20131654998014,51.2541354555861
+"Watermolen",138310,216039,86400,1,14400,"axial flow","Verrebroekdok","freshwater",4.20131654998014,51.2541354555861
+"Watermolen",138310,216039,86400,1,14400,"axial flow","Verrebroekdok","freshwater",4.20131654998014,51.2541354555861
+"Watermolen",138310,216039,86400,1,14400,"axial flow","Verrebroekdok","freshwater",4.20131654998014,51.2541354555861
+"Vlaemschen dijk",142594,223071,21600,1,5400,"axial flow","Zeeschelde","estuary",4.26253518206703,51.3174106308491
+"Vlaemschen dijk",142594,223071,21600,1,5400,"axial flow","Zeeschelde","estuary",4.26253518206703,51.3174106308491
+"Vlaemschen dijk",142594,223071,21600,1,5400,"axial flow","Zeeschelde","estuary",4.26253518206703,51.3174106308491
+"Vlaemschen dijk",142594,223071,21600,1,5400,"axial flow","Zeeschelde","estuary",4.26253518206703,51.3174106308491
+"Slijpe",42708,207195,2398,1,1199,"axial flow","Kanaal Plassendale-Duinkerken","freshwater",2.83479265085484,51.1648063839658
+"Slijpe",42708,207195,2398,1,1199,"axial flow","Kanaal Plassendale-Duinkerken","freshwater",2.83479265085484,51.1648063839658
+"Mannekensvere",41848,203907,68,1,68,"submersible pump","Reygaertsvliet","freshwater",2.8234784165349,51.1350979103868
+"Coudeville",43080,203961,108,1,108,"submersible pump","Reigersvliet","freshwater",2.84106040455361,51.1358122301404
+"Zande",47308,201788,0,1,NA,"submersible pump","Spermaliegeleed","freshwater",2.90206788720979,51.1170496334722
+"Wilskerke",43884,207598,943,1,943,"Archimedes screw","Kanaal Plassendale-Duinkerken","freshwater",2.85148367332615,51.1686450903044
+"Kromme Elleboog",47406,209049,659,1,659,"Archimedes screw","Provinciegeleed","freshwater",2.90141906120591,51.1823207519956
+"Legeweg",45546,209584,659,1,659,"Archimedes screw","Ieperleed","freshwater",2.87466986866882,51.1867954307673
+"Lammergeleed",49026,204893,252,1,252,"submersible pump","Grootgeleed","freshwater",2.92573751389274,51.1452565831505
+"Nieuwland",54138,205183,839,1,839,"Archimedes screw","Vaartdijkgeleed","freshwater",2.99869967089308,51.1487327620671
+"Bourgogne",54305,205674,0,1,NA,"Archimedes screw","Boergonjevaart","freshwater",3.00095670334177,51.1531730879136
+"Zevekote",48250,204082,4680,1,4680,"axial flow","Nieuw dwarsgeleed","freshwater",2.91487731983374,51.1378321734281
+"Doeve 1",54230,205519,10800,1,5400,"axial flow","Moerdijkvaart","freshwater",2.99992576290806,51.151767671594
+"Doeve 1",54230,205519,10800,1,5400,"axial flow","Moerdijkvaart","freshwater",2.99992576290806,51.151767671594
+"Doeve 2",54230,205519,4320,1,4320,"Archimedes screw","Moerdijkvaart","freshwater",2.99992576290806,51.151767671594
+"Kalsijde 1",48131,208085,2398,1,1199,"axial flow","Kanaal Plassendale-Duinkerken","freshwater",2.91205594331832,51.1737857258636
+"Kalsijde 1",48131,208085,2398,1,1199,"axial flow","Kanaal Plassendale-Duinkerken","freshwater",2.91205594331832,51.1737857258636
+"Kalsijde 2",48131,208085,1584,1,1584,"submersible pump","Kanaal Plassendale-Duinkerken","freshwater",2.91205594331832,51.1737857258636
+"Hondsnest",126189,208411,7200,1,3600,"Archimedes screw","Kanaal van Stekene","freshwater",4.02820328122808,51.185200706314
+"Hondsnest",126189,208411,7200,1,3600,"Archimedes screw","Kanaal van Stekene","freshwater",4.02820328122808,51.185200706314
+"Sinaai",124270,205227,7200,1,2400,"axial flow-closed","Moervaart",NA,4.00098257190403,51.1564993453072
+"Sinaai",124270,205227,7200,1,2400,"axial flow-closed","Moervaart",NA,4.00098257190403,51.1564993453072
+"Sinaai",124270,205227,7200,1,2400,"axial flow-closed","Moervaart",NA,4.00098257190403,51.1564993453072
+"Leebrugse Meersen",123702,204795,1200,1,1200,"axial flow-closed","Moervaart","freshwater",3.99289514412156,51.1525907943208
+"Daknamse Meersen",122774,201397,7200,1,2400,"axial flow-closed","Durme","freshwater",3.97988592096358,51.1220048153898
+"Daknamse Meersen",122774,201397,7200,1,2400,"axial flow-closed","Durme","freshwater",3.97988592096358,51.1220048153898
+"Daknamse Meersen",122774,201397,7200,1,2400,"axial flow-closed","Durme","freshwater",3.97988592096358,51.1220048153898
+"Ijskelder",154149,214315,28800,1,7200,"Archimedes screw","lobroekdok",NA,4.42816658637369,51.238741846395
+"Ijskelder",154149,214315,28800,1,7200,"Archimedes screw","lobroekdok",NA,4.42816658637369,51.238741846395
+"Ijskelder",154149,214315,28800,1,7200,"Archimedes screw","lobroekdok",NA,4.42816658637369,51.238741846395
+"Ijskelder",154149,214315,28800,1,7200,"Archimedes screw","lobroekdok",NA,4.42816658637369,51.238741846395
+"Burchtse Weel",149076,210831,10800,1,3600,"axial flow-vertical","Burchtse Weel","estuary",4.35553592627542,51.2074409453039
+"Burchtse Weel",149076,210831,10800,1,3600,"axial flow-vertical","Burchtse Weel","estuary",4.35553592627542,51.2074409453039
+"Burchtse Weel",149076,210831,10800,1,3600,"axial flow-vertical","Burchtse Weel","estuary",4.35553592627542,51.2074409453039
+"Damse vaart",75232,217982,720,1,720,"Archimedes screw","Kanaal Brugge naar Sluis","freshwater",3.29748977425378,51.2668754570931
+"Damsloot",109646,192111,9600,1,2400,"centrifugal","Zeeschelde","estuary",3.79341073318592,51.0377709056015
+"Damsloot",109646,192111,9600,1,2400,"centrifugal","Zeeschelde","estuary",3.79341073318592,51.0377709056015
+"Damsloot",109646,192111,9600,1,2400,"centrifugal","Zeeschelde","estuary",3.79341073318592,51.0377709056015
+"Damsloot",109646,192111,9600,1,2400,"centrifugal","Zeeschelde","estuary",3.79341073318592,51.0377709056015
+"Esen",47523,192742,3600,1,3600,"Archimedes screw","Handzamevaart","freshwater",2.90767856232099,51.0357902096075
+"Greven",244203,187794,5200,1,400,"centrifugal","Zuid-Willemsvaart","freshwater",5.7106150653147,50.9927074773666
+"Greven",244203,187794,5200,1,400,"centrifugal","Zuid-Willemsvaart","freshwater",5.7106150653147,50.9927074773666
+"Greven",244203,187794,5200,1,900,"centrifugal","Zuid-Willemsvaart","freshwater",5.7106150653147,50.9927074773666
+"Greven",244203,187794,5200,1,900,"centrifugal","Zuid-Willemsvaart","freshwater",5.7106150653147,50.9927074773666
+"Greven",244203,187794,5200,1,650,"centrifugal","Zuid-Willemsvaart","freshwater",5.7106150653147,50.9927074773666
+"Greven",244203,187794,5200,1,650,"centrifugal","Zuid-Willemsvaart","freshwater",5.7106150653147,50.9927074773666
+"Greven",244203,187794,5200,1,650,"centrifugal","Zuid-Willemsvaart","freshwater",5.7106150653147,50.9927074773666
+"Greven",244203,187794,5200,1,650,"centrifugal","Zuid-Willemsvaart","freshwater",5.7106150653147,50.9927074773666
+"Helderbeek",212383,193442,340,1,170,"axial flow","Helderbeek","freshwater",5.2583788935003,51.0477726318593
+"Helderbeek",212383,193442,340,1,170,"axial flow","Helderbeek","freshwater",5.2583788935003,51.0477726318593
+"Hellestraat",142904,161955,300,1,300,"submersible pump","Lotbeek","freshwater",4.26816087422442,50.7680472125716
+"Kleuterweg",215151,193013,320,1,160,"axial flow","Halbeek","freshwater",5.29777180318414,51.0436117222334
+"Kleuterweg",215151,193013,320,1,160,"axial flow","Halbeek","freshwater",5.29777180318414,51.0436117222334
+"Kroploop",203258,209592,2000,1,2000,"Archimedes screw","Scheppelijke Nete","freshwater",5.13062534871908,51.1938444637155
+"Laak",171031,206951,3600,1,1800,"axial flow","Nijlense beek","freshwater",4.66946627740056,51.1721816834142
+"Laak",171031,206951,3600,1,1800,"axial flow","Nijlense beek","freshwater",4.66946627740056,51.1721816834142
+"Laambeek",216349,188315,760,1,380,"axial flow","vijvers","freshwater",5.31399938287601,51.0012486155974
+"Laambeek",216349,188315,760,1,380,"axial flow","vijvers","freshwater",5.31399938287601,51.0012486155974
+"Leebeek",105769,189329,1800,1,1800,"Archimedes screw","Ringvaart Om Gent","freshwater",3.73847351906094,51.0124816570111
+"Meerspoort 1",95664,169915,7200,1,2400,"axial flow","Bovenschelde","freshwater",3.59736045478267,50.837114428725
+"Meerspoort 1",95664,169915,7200,1,2400,"axial flow","Bovenschelde","freshwater",3.59736045478267,50.837114428725
+"Meerspoort 1",95664,169915,7200,1,2400,"axial flow","Bovenschelde","freshwater",3.59736045478267,50.837114428725
+"Meerspoort 2",95664,169915,480,1,160,"centrifugal","Proceswater","freshwater",3.59736045478267,50.837114428725
+"Meerspoort 2",95664,169915,480,1,160,"centrifugal","Proceswater","freshwater",3.59736045478267,50.837114428725
+"Meerspoort 2",95664,169915,480,1,160,"centrifugal","Proceswater","freshwater",3.59736045478267,50.837114428725
+"Meeswijk",246897,188799,5040,1,1260,"centrifugal","Rachelsbeek","freshwater",5.74924687804488,51.0012958688265
+"Meeswijk",246897,188799,5040,1,1260,"centrifugal","Rachelsbeek","freshwater",5.74924687804488,51.0012958688265
+"Meeswijk",246897,188799,5040,1,1260,"centrifugal","Rachelsbeek","freshwater",5.74924687804488,51.0012958688265
+"Meeswijk",246897,188799,5040,1,1260,"centrifugal","Rachelsbeek","freshwater",5.74924687804488,51.0012958688265
+"Nijlense beek",171016,206991,8400,1,2800,"axial flow","Kleine Nete","freshwater",4.66925412405519,51.1725417697134
+"Nijlense beek",171016,206991,8400,1,2800,"axial flow","Kleine Nete","freshwater",4.66925412405519,51.1725417697134
+"Nijlense beek",171016,206991,8400,1,2800,"axial flow","Kleine Nete","freshwater",4.66925412405519,51.1725417697134
+"Rietgracht",109589,192326,2700,1,2700,"submersible pump","Zeeschelde","estuary",3.79257433470502,51.0396995107554
+"Werken",51287,191402,3600,1,1800,"axial flow","Handzamevaart","freshwater",2.96169292631865,51.0244002935417
+"Werken",51287,191402,3600,1,1800,"axial flow","Handzamevaart","freshwater",2.96169292631865,51.0244002935417
+"Zilveren Speye",44969,200999,9120,1,4560,"Archimedes screw","Vladslovaart","freshwater",2.86889781541872,51.1095391518405
+"Zilveren Speye",44969,200999,9120,1,4560,"Archimedes screw","Vladslovaart","freshwater",2.86889781541872,51.1095391518405
