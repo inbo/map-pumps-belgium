@@ -20,9 +20,9 @@
 "Kwetshage-Paddegat",59732,211051,12000,1,4000,"Archimedes screw","Kanaal Van Gent Naar Oostende","freshwater",3.07717450645527,51.2023697713408
 "Kwetshage-Paddegat",59732,211051,12000,1,4000,"Archimedes screw","Kanaal Van Gent Naar Oostende","freshwater",3.07717450645527,51.2023697713408
 "Kwetshage-Paddegat",59732,211051,12000,1,4000,"Archimedes screw","Kanaal Van Gent Naar Oostende","freshwater",3.07717450645527,51.2023697713408
-"De Steeger",61005,211184,12096,1,4032,"Archimedes screw","Kanaal Van Gent Naar Oostende","freshwater",3.09535278544035,51.2037625740501
-"De Steeger",61005,211184,12096,1,4032,"Archimedes screw","Kanaal Van Gent Naar Oostende","freshwater",3.09535278544035,51.2037625740501
-"De Steeger",61005,211184,12096,1,4032,"Archimedes screw","Kanaal Van Gent Naar Oostende","freshwater",3.09535278544035,51.2037625740501
+"De Steeger",61005,211184,12096,1,4032,"Archimedes screw","Kanaal Van Gent Naar Oostende","freshwater",3.09535278544036,51.2037625740501
+"De Steeger",61005,211184,12096,1,4032,"Archimedes screw","Kanaal Van Gent Naar Oostende","freshwater",3.09535278544036,51.2037625740501
+"De Steeger",61005,211184,12096,1,4032,"Archimedes screw","Kanaal Van Gent Naar Oostende","freshwater",3.09535278544036,51.2037625740501
 "Waasmunster",127814,199114,6480,1,2160,"axial flow","Benedendurme","estuary",4.05201033247269,51.1016985515554
 "Waasmunster",127814,199114,6480,1,2160,"axial flow","Benedendurme","estuary",4.05201033247269,51.1016985515554
 "Waasmunster",127814,199114,6480,1,2160,"axial flow","Benedendurme","estuary",4.05201033247269,51.1016985515554
@@ -228,10 +228,10 @@
 "Stekene",126829,209779,7128,1,2376,"axial flow","kanaal van stekene","freshwater",4.03726951777539,51.1975228134247
 "Stekene",126829,209779,7128,1,2376,"axial flow","kanaal van stekene","freshwater",4.03726951777539,51.1975228134247
 "Stekene",126829,209779,7128,1,2376,"axial flow","kanaal van stekene","freshwater",4.03726951777539,51.1975228134247
-"Wichelen",118791,189805,29520,1,4680,"axial flow","Zeeschelde","estuary",3.92398799271125,51.0176066284723
-"Wichelen",118791,189805,29520,1,10080,"axial flow","Zeeschelde","estuary",3.92398799271125,51.0176066284723
-"Wichelen",118791,189805,29520,1,10080,"axial flow","Zeeschelde","estuary",3.92398799271125,51.0176066284723
-"Wichelen",118791,189805,29520,1,4680,"axial flow","Zeeschelde","estuary",3.92398799271125,51.0176066284723
+"Wichelen",118791,189805,29520,1,4680,"axial flow","Zeeschelde","estuary",3.92398799271124,51.0176066284723
+"Wichelen",118791,189805,29520,1,10080,"axial flow","Zeeschelde","estuary",3.92398799271124,51.0176066284723
+"Wichelen",118791,189805,29520,1,10080,"axial flow","Zeeschelde","estuary",3.92398799271124,51.0176066284723
+"Wichelen",118791,189805,29520,1,4680,"axial flow","Zeeschelde","estuary",3.92398799271124,51.0176066284723
 "Vondelbeek",131626,191604,17280,1,4320,"axial flow","Zeeschelde","estuary",4.10681034109636,51.0343256805481
 "Vondelbeek",131626,191604,17280,1,4320,"axial flow","Zeeschelde","estuary",4.10681034109636,51.0343256805481
 "Vondelbeek",131626,191604,17280,1,4320,"axial flow","Zeeschelde","estuary",4.10681034109636,51.0343256805481
@@ -366,9 +366,9 @@
 "Ijskelder",154149,214315,28800,1,7200,"Archimedes screw","lobroekdok",NA,4.42816658637369,51.238741846395
 "Ijskelder",154149,214315,28800,1,7200,"Archimedes screw","lobroekdok",NA,4.42816658637369,51.238741846395
 "Ijskelder",154149,214315,28800,1,7200,"Archimedes screw","lobroekdok",NA,4.42816658637369,51.238741846395
-"Burchtse Weel",149076,210831,10800,1,3600,"axial flow-vertical","Burchtse Weel","estuary",4.35553592627542,51.2074409453039
-"Burchtse Weel",149076,210831,10800,1,3600,"axial flow-vertical","Burchtse Weel","estuary",4.35553592627542,51.2074409453039
-"Burchtse Weel",149076,210831,10800,1,3600,"axial flow-vertical","Burchtse Weel","estuary",4.35553592627542,51.2074409453039
+"Burchtse Weel",149076,210831,10800,1,3600,"axial flow-vertical","Burchtse Weel","estuary",4.35553592627541,51.2074409453039
+"Burchtse Weel",149076,210831,10800,1,3600,"axial flow-vertical","Burchtse Weel","estuary",4.35553592627541,51.2074409453039
+"Burchtse Weel",149076,210831,10800,1,3600,"axial flow-vertical","Burchtse Weel","estuary",4.35553592627541,51.2074409453039
 "Damse vaart",75232,217982,720,1,720,"Archimedes screw","Kanaal Brugge naar Sluis","freshwater",3.29748977425378,51.2668754570931
 "Damsloot",109646,192111,9600,1,2400,"centrifugal","Zeeschelde","estuary",3.79341073318592,51.0377709056015
 "Damsloot",109646,192111,9600,1,2400,"centrifugal","Zeeschelde","estuary",3.79341073318592,51.0377709056015
