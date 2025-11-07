@@ -88,7 +88,6 @@ marker_label <- paste0(
 )
 
 # Define color palette based on capacity (the original `label.parameter`)
-# Note: We use the full column name for capacity here, which is in label.cols[2]
 beatCol <- colorNumeric(palette = rev(RColorBrewer::brewer.pal(11, 'RdYlGn')), 
                         domain = coords_SP@data$Total.capacity..m3.per.h.)
 
@@ -107,36 +106,68 @@ title_html <- htmltools::tags$div(
   htmltools::tags$strong("Pumping Stations Belgium Overview")
 )
 
-
 # 4. Generate the Leaflet Map
 RangePlot<-leaflet() %>%
-  addTiles() %>%
-  # Add the title control
-  addControl(title_html) %>%
-  addCircleMarkers(
-    data=coords_SP,
-    radius=8,
-    fillColor = ~beatCol(coords_SP@data$Total.capacity..m3.per.h.),
-    fillOpacity=0.8,
-    weight=1,
-    color='black',
-    popup=Samples_text,                                     # Full details in popup (all 5 parameters)
-    label=marker_label,                                     # Short details in tooltip (Name and Capacity)
-    labelOptions = labelOptions(noHide = F, textOnly = TRUE), # textOnly = TRUE is required for \n (newline) to work
-    layerId = coords_SP@data$Name,                          # Assign Name as layerId for search index
-    group=coords_SP@data[,control.parameter]
+  # 1. Base Layers
+  addProviderTiles(providers$CartoDB.Positron, group = "Street Map") %>%
+  addProviderTiles(providers$Esri.WorldImagery, group = "Satellite") %>%
+  
+  # 2. Add the title control
+  addControl(title_html) 
+
+# NEW LOGIC: Loop through each unique pump type to create separate, clustered, and toggleable overlay groups
+pump_types <- unique(coords_SP@data[,control.parameter])
+
+for (i in seq_along(pump_types)) {
+  type <- pump_types[i]
+  # Filter data for the current pump type
+  data_subset <- coords_SP[coords_SP@data[,control.parameter] == type, ]
+  
+  # Get the indices in the full data set to correctly index Samples_text and marker_label
+  subset_indices <- which(coords_SP@data[,control.parameter] == type)
+  
+  RangePlot <- RangePlot %>%
+    addCircleMarkers(
+      data=data_subset,
+      radius=8,
+      fillColor = ~beatCol(data_subset@data$Total.capacity..m3.per.h.),
+      fillOpacity=0.8,
+      weight=1,
+      color='black',
+      # Use the pre-calculated text, indexed by the current subset
+      popup=Samples_text[subset_indices],           
+      label=marker_label[subset_indices],           
+      labelOptions = labelOptions(noHide = F, textOnly = TRUE),
+      clusterOptions = markerClusterOptions(),      # Clustering applied to this specific group
+      # layerId is not used in this loop structure but is needed for the search function
+      layerId = data_subset@data$Name,              
+      group = type                                  # Explicitly set the overlay group name
+    )
+}
+
+# 5. Add Legend (must be after palette is defined)
+RangePlot <- RangePlot %>%
+  addLegend(
+    pal = beatCol, 
+    values = coords_SP@data$Total.capacity..m3.per.h.,
+    title = "Total Capacity (m³/h)",
+    position = "bottomright"
   ) %>%
-  # FIX: Explicitly call searchFeaturesOptions from leaflet.extras
+  
+  # 6. Add Search Features (must be after markers are added)
   leaflet.extras::addSearchFeatures(
-    targetGroups = coords_SP@data[,control.parameter], 
+    targetGroups = pump_types, # Target the groups created in the loop
     options = leaflet.extras::searchFeaturesOptions(
-      zoom = 12, 
+      zoom = 16, 
       openPopup = TRUE, 
       textPlaceholder = "Search by Station Name..."
     )
   ) %>%
+  
+  # 7. Add Layer Controls (now includes base layers)
   addLayersControl(
-    overlayGroups = coords_SP@data[,control.parameter],
+    baseGroups = c("Street Map", "Satellite"),
+    overlayGroups = pump_types, # Use the list of types as overlay groups
     options = layersControlOptions(collapsed = FALSE)
   )
 

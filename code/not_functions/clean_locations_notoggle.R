@@ -43,8 +43,8 @@ write.csv(data2,"./data/intern/pumping_stations_belgium.csv",row.names = FALSE)
 
 # --- Mapping Configuration ---
 
-# The layer control parameter remains the same
-control.parameter="Pump.type"
+# The layer control parameter is no longer used for toggling but kept for context
+control.parameter="Pump.type" 
 
 # Define all parameters you want to appear in the POPUP (using the user's specific list)
 label.cols <- c(
@@ -82,13 +82,11 @@ Samples_text <- paste0(
 )
 
 # 3. Create the visible marker label (Tooltip on hover) - short and informative
-# We use Name and Total Capacity here for a brief tooltip
 marker_label <- paste0(
   "Station Name: ", coords_SP@data$Name
 )
 
-# Define color palette based on capacity (the original `label.parameter`)
-# Note: We use the full column name for capacity here, which is in label.cols[2]
+# Define color palette based on capacity
 beatCol <- colorNumeric(palette = rev(RColorBrewer::brewer.pal(11, 'RdYlGn')), 
                         domain = coords_SP@data$Total.capacity..m3.per.h.)
 
@@ -107,12 +105,16 @@ title_html <- htmltools::tags$div(
   htmltools::tags$strong("Pumping Stations Belgium Overview")
 )
 
-
 # 4. Generate the Leaflet Map
 RangePlot<-leaflet() %>%
-  addTiles() %>%
-  # Add the title control
+  # 1. Base Layers - Added both tiles, with groups defined for toggling
+  addProviderTiles(providers$CartoDB.Positron, group = "Street Map") %>%
+  addProviderTiles(providers$Esri.WorldImagery, group = "Satellite") %>%
+  
+  # 2. Add the title control
   addControl(title_html) %>%
+  
+  # 3. Add Clustered Markers (Single layer)
   addCircleMarkers(
     data=coords_SP,
     radius=8,
@@ -120,23 +122,35 @@ RangePlot<-leaflet() %>%
     fillOpacity=0.8,
     weight=1,
     color='black',
-    popup=Samples_text,                                     # Full details in popup (all 5 parameters)
-    label=marker_label,                                     # Short details in tooltip (Name and Capacity)
-    labelOptions = labelOptions(noHide = F, textOnly = TRUE), # textOnly = TRUE is required for \n (newline) to work
-    layerId = coords_SP@data$Name,                          # Assign Name as layerId for search index
-    group=coords_SP@data[,control.parameter]
+    popup=Samples_text,           
+    label=marker_label,           
+    labelOptions = labelOptions(noHide = F, textOnly = TRUE),
+    clusterOptions = markerClusterOptions(),
+    layerId = coords_SP@data$Name, # Required for Search
+    group = "Pumping Stations"     # Assign a generic group name for search target
   ) %>%
-  # FIX: Explicitly call searchFeaturesOptions from leaflet.extras
+  
+  # 4. Add Legend (must be after palette is defined)
+  addLegend(
+    pal = beatCol, 
+    values = coords_SP@data$Total.capacity..m3.per.h.,
+    title = "Total Capacity (m³/h)",
+    position = "bottomright"
+  ) %>%
+  
+  # 5. Add Search Features (must be after markers are added)
   leaflet.extras::addSearchFeatures(
-    targetGroups = coords_SP@data[,control.parameter], 
+    targetGroups = "Pumping Stations", # Target the single, generic marker group
     options = leaflet.extras::searchFeaturesOptions(
-      zoom = 12, 
+      zoom = 16, 
       openPopup = TRUE, 
       textPlaceholder = "Search by Station Name..."
     )
   ) %>%
+  
+  # 6. Add Layer Controls (Base Map Selector)
   addLayersControl(
-    overlayGroups = coords_SP@data[,control.parameter],
+    baseGroups = c("Street Map", "Satellite"),
     options = layersControlOptions(collapsed = FALSE)
   )
 
